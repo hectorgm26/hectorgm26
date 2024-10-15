@@ -18,7 +18,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/hectoryefc/" target="blank"><img align="center" src="https://img.shields.io/badge/Héctor Andrés Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hhector.agm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/tuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hectoryefc/" target="blank"><img align="center" src="https://img.shields.io/badge/Héctor Andrés Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hhector.agm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hhector.agm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -29,12 +29,12 @@
   
 |![](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/HTML%20&%20CSS-red?style=for-the-badge)|![](https://img.shields.io/badge/JavaScript-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Spring%20&%20Spring%20Boot-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/SQL%20Databases-blue?style=for-the-badge)|![](https://img.shields.io/badge/QA%20Testing-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Spring%20&%20Spring%20Boot-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/SQL%20Databases-blue?style=for-the-badge)|![](https://img.shields.io/badge/QA%20Testing%20with%20Java-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <Br>
 <hr>
 <Br>
-<h1>Habilidades blandas! 🧠</h1>
+<h1 align="center">Soft Skills! 🧠</h1>
 <Br>
 
 |![](https://img.shields.io/badge/Tolerancia%20a%20la%20frustración-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Autodidacta-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Análisis-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Trabajo%20bajo%20presión-red?style=for-the-badge)|![](https://img.shields.io/badge/Resolución%20de%20problemas-red?style=for-the-badge)|
@@ -44,20 +44,22 @@
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1 align="center">Tools I use! 🛠️</h1>
 <Br>
  
 |![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen)|![](https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge&logo=sql&logoColor=white)|![](https://img.shields.io/badge/Postman-F7931E?style=for-the-badge&logo=postman&logoColor=white)|![](https://img.shields.io/badge/SpringBoot-D00000?style=for-the-badge&logo=Spring&logoColor=white)|![](https://img.shields.io/badge/Trello-F37626.svg?&style=for-the-badge&logo=Trello&logoColor=white)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Netbeans-342B029.svg?&style=for-the-badge&logo=netbeans&logoColor=white)|![](https://img.shields.io/badge/IntelliJ-2C2D72?style=for-the-badge&logo=intellij&logoColor=white)|![](https://img.shields.io/badge/Git-777BB4?style=for-the-badge&logo=git&logoColor=white)|![](https://img.shields.io/badge/Visual%20Studio%20Code-239120?style=for-the-badge&logo=visual-studio-code&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Laragon-342B029.svg?&style=for-the-badge&logo=laragon&logoColor=white)|![](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-2C2D72?style=for-the-badge&logo=sqlserver&logoColor=white)|![](https://img.shields.io/badge/DBeaver-777BB4?style=for-the-badge&logo=dbeaver&logoColor=white)|![](https://img.shields.io/badge/Visual%20Studio%20Code-239120?style=for-the-badge&logo=visual-studio-code&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+<h1 align="center">Some of my Projects! 🎨</h1>
 <Br>
-  
-<!-- Aún no tienes proyectos publicados. Cuando tengas, puedes agregar una tarjeta de GitHub Stats para cada uno. -->
+
+<!-- Aquí tienes los enlaces a tus repositorios en GitHub -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=java-currency-converter)](https://github.com/hectorgm26/java-currency-converter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=backend-rest-api)](https://github.com/hectorgm26/backend-rest-api)
 
 <Br>
 <hr>
@@ -70,7 +72,7 @@
 <Br>
 <hr>
 <Br>
-<h1>GitHub Stats! 📊</h1>
+<h1 align="center">GitHub Stats! 📊</h1>
 <Br>
   
 [![Héctor's github stats](https://github-readme-stats.vercel.app/api?username=HectorAGM&show_icons=true&theme=merko)](https://github.com/HectorAGM/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorAGM&layout=compact&theme=merko)](https://github.com/HectorAGM/github-readme-stats)
@@ -78,7 +80,7 @@
 <Br>
 <hr>
 <Br>
-<h1>A Little Joke at the End! 🤣</h1>
+<h1 align="center">A Little Joke at the End! 🤣</h1>
 <Br>
 
 **Why do Java developers wear glasses?**  
@@ -87,7 +89,7 @@ Because they don’t C#!
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1 align="center">Thank You! 🤵 </h1>
 <Br>
 
 ------

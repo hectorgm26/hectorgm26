@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230"/>
 </p>
@@ -29,10 +30,10 @@
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
-  
-|![](https://img.shields.io/badge/Object--Oriented%20Programming-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Linux-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/API%20Integration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Manual%20Testing-red?style=for-the-badge)|![](https://img.shields.io/badge/QA%20Testing-red?style=for-the-badge)|
+
+|![](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/HTML%20&%20CSS-red?style=for-the-badge)|![](https://img.shields.io/badge/JavaScript-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/SQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/HTML%20%26%20CSS-blue?style=for-the-badge)|![](https://img.shields.io/badge/JSON%20Handling-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Spring%20&%20Spring%20Boot-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/SQL%20Databases-blue?style=for-the-badge)|![](https://img.shields.io/badge/QA%20Testing%20with%20Java-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <Br>
 <hr>
@@ -47,12 +48,12 @@
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1 align="center">Tools I use! 🛠️</h1>
 <Br>
 
-|![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)|![](https://img.shields.io/badge/IntelliJ-FF5733?style=for-the-badge&logo=intellij-idea&logoColor=white)|![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)|
+|![](https://img.shields.io/badge/IntelliJ-FF5733?style=for-the-badge&logo=intellij-idea&logoColor=white)|![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)|![](https://img.shields.io/badge/Postman-F7931E?style=for-the-badge&logo=postman&logoColor=white)|![](https://img.shields.io/badge/SpringBoot-D00000?style=for-the-badge&logo=Spring&logoColor=white)|![](https://img.shields.io/badge/Trello-F37626.svg?&style=for-the-badge&logo=Trello&logoColor=white)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)|![](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)|![](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)|![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Laragon-342B029.svg?&style=for-the-badge&logo=laragon&logoColor=white)|![](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-2C2D72?style=for-the-badge&logo=sqlserver&logoColor=white)|![](https://img.shields.io/badge/DBeaver-777BB4?style=for-the-badge&logo=dbeaver&logoColor=white)|![](https://img.shields.io/badge/Visual%20Studio%20Code-239120?style=for-the-badge&logo=visual-studio-code&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <Br>
 <hr>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/HectorAGM">Héctor Andrés Gonzalez Mora</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
@@ -88,7 +88,7 @@
 <h1 align="center">A Little Java Joke at the End! 🤣</h1>
 <Br>
 
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
+<img src="https://chandruscm.wordpress.com/wp-content/uploads/2015/08/jcmmlgm.png?w=1200"/>
 
 <Br>
 <hr>

@@ -2,24 +2,23 @@
   <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/HectorAGM">Héctor Andrés Gonzalez Mora<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 🏫: I'm a first-year student of Programming at the Instituto Profesional San Sebastián.
+- 🔭: I’m currently working on small personal projects and learning as much as possible about backend development.
+- 🌱: I’m currently studying Spring and Spring Boot ecosystems, both self-taught and as part of Oracle’s ONE program at Alura Latam. 🧠💻
+- 💬: Ask me about Java, Object-Oriented Programming, and SQL. 📊📈💻
 - 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
-  
+- ⚡  Fun fact: I enjoy playing video games, reading comics, doing freestyle rap, and going out with friends and my partner! 🎮🎤📖
+
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/Héctor Andrés Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:tuemail@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/tuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/HectorAGM" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -28,21 +27,29 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|![](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/HTML%20&%20CSS-red?style=for-the-badge)|![](https://img.shields.io/badge/JavaScript-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
-  
+|![](https://img.shields.io/badge/Spring%20&%20Spring%20Boot-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/SQL%20Databases-blue?style=for-the-badge)|![](https://img.shields.io/badge/QA%20Testing-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+
+<Br>
+<hr>
+<Br>
+<h1>Habilidades blandas! 🧠</h1>
+<Br>
+
+|![](https://img.shields.io/badge/Tolerancia%20a%20la%20frustración-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Autodidacta-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Análisis-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Trabajo%20bajo%20presión-red?style=for-the-badge)|![](https://img.shields.io/badge/Resolución%20de%20problemas-red?style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Investigación-blue?style=for-the-badge)|![](https://img.shields.io/badge/Aprendo%20rápido-blue?style=for-the-badge)|![](https://img.shields.io/badge/Trabajo%20en%20equipo-blue?style=for-the-badge)|![](https://img.shields.io/badge/Comunicación%20Efectiva-blue?style=for-the-badge)|
+
 <Br>
 <hr>
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+|![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen)|![](https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge&logo=sql&logoColor=white)|![](https://img.shields.io/badge/Postman-F7931E?style=for-the-badge&logo=postman&logoColor=white)|![](https://img.shields.io/badge/SpringBoot-D00000?style=for-the-badge&logo=Spring&logoColor=white)|![](https://img.shields.io/badge/Trello-F37626.svg?&style=for-the-badge&logo=Trello&logoColor=white)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
+|![](https://img.shields.io/badge/Netbeans-342B029.svg?&style=for-the-badge&logo=netbeans&logoColor=white)|![](https://img.shields.io/badge/IntelliJ-2C2D72?style=for-the-badge&logo=intellij&logoColor=white)|![](https://img.shields.io/badge/Git-777BB4?style=for-the-badge&logo=git&logoColor=white)|![](https://img.shields.io/badge/Visual%20Studio%20Code-239120?style=for-the-badge&logo=visual-studio-code&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <Br>
 <hr>
@@ -50,39 +57,33 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+<!-- Aún no tienes proyectos publicados. Cuando tengas, puedes agregar una tarjeta de GitHub Stats para cada uno. -->
 
 <Br>
 <hr>
 <Br>
 <h1>Certifications! 🏆</h1>
 <Br>
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
- 
 
+<!-- No hay certificaciones aún, pero cuando tengas, puedes agregarlas aquí. -->
+  
 <Br>
 <hr>
 <Br>
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![Héctor's github stats](https://github-readme-stats.vercel.app/api?username=HectorAGM&show_icons=true&theme=merko)](https://github.com/HectorAGM/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorAGM&layout=compact&theme=merko)](https://github.com/HectorAGM/github-readme-stats)
 
- 
 <Br>
 <hr>
 <Br>
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>
-  
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
-  
-  
-  
+
+**Why do Java developers wear glasses?**  
+Because they don’t C#!
+
 <Br>
 <hr>
 <Br>
@@ -90,6 +91,6 @@
 <Br>
 
 ------
-  
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
+
+Credit: [Aryagm](https://github.com/Aryagm)  
+Last Edited on: 15/10/2024

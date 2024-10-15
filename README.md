@@ -57,9 +57,11 @@
 <h1 align="center">Some of my Projects! 🎨</h1>
 <Br>
 
-<!-- Aquí tienes los enlaces a tus repositorios en GitHub -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=java-currency-converter)](https://github.com/hectorgm26/java-currency-converter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=backend-rest-api)](https://github.com/hectorgm26/backend-rest-api)
+<!-- Añadimos los proyectos con el formato de ReadMe Cards -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=juego-nums-aleatorios&theme=merko)](https://github.com/hectorgm26/juego-nums-aleatorios)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=encriptador-texto&theme=merko)](https://github.com/hectorgm26/encriptador-texto)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=porfolio-hector-gm&theme=merko)](https://github.com/hectorgm26/porfolio-hector-gm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=conversor-monedas&theme=merko)](https://github.com/hectorgm26/conversor-monedas)
 
 <Br>
 <hr>
@@ -67,15 +69,17 @@
 <h1>Certifications! 🏆</h1>
 <Br>
 
-<!-- No hay certificaciones aún, pero cuando tengas, puedes agregarlas aquí. -->
-  
+<!-- Aquí puedes añadir certificaciones cuando las tengas -->
+|[![](https://img.shields.io/badge/Certificación%201-red?style=for-the-badge)](cert-link)|[![](https://img.shields.io/badge/Certificación%202-blue?style=for-the-badge)](cert-link)|[![](https://img.shields.io/badge/Certificación%203-green?style=for-the-badge)](cert-link)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](cert-link)|
+
 <Br>
 <hr>
 <Br>
 <h1 align="center">GitHub Stats! 📊</h1>
 <Br>
-  
-[![Héctor's github stats](https://github-readme-stats.vercel.app/api?username=HectorAGM&show_icons=true&theme=merko)](https://github.com/HectorAGM/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorAGM&layout=compact&theme=merko)](https://github.com/HectorAGM/github-readme-stats)
+
+[![Héctor's github stats](https://github-readme-stats.vercel.app/api?username=hectorgm26&show_icons=true&theme=merko)](https://github.com/hectorgm26/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorgm26&layout=compact&theme=merko)](https://github.com/hectorgm26/github-readme-stats)
 
 <Br>
 <hr>
@@ -83,13 +87,16 @@
 <h1 align="center">A Little Joke at the End! 🤣</h1>
 <Br>
 
-**Why do Java developers wear glasses?**  
-Because they don’t C#!
+<!-- Aumentamos el tamaño de la broma de Java -->
+<p align="center" style="font-size: 24px;">
+  <strong>Why do Java developers wear glasses?</strong><br>
+  Because they don’t C#!
+</p>
 
 <Br>
 <hr>
 <Br>
-<h1 align="center">Thank You! 🤵 </h1>
+<h1 align="center">Thank You! 🤵</h1>
 <Br>
 
 ------

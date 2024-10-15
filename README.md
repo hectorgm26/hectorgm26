@@ -18,7 +18,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/tu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/Héctor Andrés Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:tuemail@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/tuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/HectorAGM" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hectoryefc/" target="blank"><img align="center" src="https://img.shields.io/badge/Héctor Andrés Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hhector.agm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/tuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>

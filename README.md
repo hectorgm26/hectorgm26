@@ -28,18 +28,18 @@ As an engineer committed to lifelong learning, my academic path is both active a
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png" height="30" alt="Chile Flag"/>
-        <img src="https://www.uahurtado.cl/wp-content/uploads/2020/12/logo-uah-3.png" height="40" alt="UAH Logo"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag"/>
+        <img src="https://www.uahurtado.cl/wp-content/uploads/2020/12/logo-uah-3.png" width="90" alt="UAH Logo"/><br>
         <strong>Universidad Alberto Hurtado</strong><br><strong>BSc.</strong> Derecho<br>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png" height="30" alt="Chile Flag"/>
-        <img src="https://www.ips.cl/wp-content/themes/ips/img/logo-ipss.svg" height="40" alt="IPSS Logo"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag"/>
+        <img src="https://www.ips.cl/wp-content/themes/ips/img/logo-ipss.svg" width="90" alt="IPSS Logo"/><br>
         <strong>Instituto Profesional San Sebastián</strong><br><strong>Técnico.</strong> en Programación<br>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png" height="30" alt="Chile Flag"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Oracle_logo.svg/2560px-Oracle_logo.svg.png" height="40" alt="Oracle Logo"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Oracle_logo.svg/2560px-Oracle_logo.svg.png" width="90" alt="Oracle Logo"/><br>
         <strong>Oracle</strong><br><strong>Estudiante</strong> Programa One<br>
       </td>
     </tr>

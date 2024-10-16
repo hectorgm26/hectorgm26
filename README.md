@@ -74,7 +74,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <img height=60px src="https://skillicons.dev/icons?i=html"> <br>HTML
 </td>
 <td align="center" width="16%">
-<img height=70px src="https://skillicons.dev/icons?i=css"> <br>CSS
+<img height=60px src="https://skillicons.dev/icons?i=css"> <br>CSS
 </td>
 <td align="center" width="16%">
 <img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap

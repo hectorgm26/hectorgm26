@@ -70,26 +70,25 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="16%">
 <img height=60px src="https://skillicons.dev/icons?i=html"> <br>HTML
 </td>
-<td align="center" width="33%">
+<td align="center" width="16%">
 <img height=70px src="https://skillicons.dev/icons?i=css"> <br>CSS
 </td>
-<td align="center" width="33%">
+<td align="center" width="16%">
 <img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap
 </td>
-</tr>
- <tr>
-<td align="center" width="33%">
+<td align="center" width="16%">
 <img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
 </td>
-<td align="center" width="33%">
+<td align="center" width="16%">
 <img height=60px src="https://skillicons.dev/icons?i=postgresql"> <br>PostgreSQL
 </td>
 </tr>
 </tbody>
 </table>
+
 
 <hr>
 

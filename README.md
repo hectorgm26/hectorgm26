@@ -172,9 +172,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=dotnet"> <br>C#
-</td>
-<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
 </td>
 </tr>

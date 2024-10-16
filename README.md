@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!" alt="Title">
+</div>
 
-<hr>
+<div align="center">
+  <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230" />
+</div>
 
-## I'm <a href="https://github.com/HectorAGM">Héctor Andrés Gonzalez Mora</a> :wave:
+## I'm <a href="https://github.com/HectorAGM">Héctor Andrés Gonzalez Mora</a> 
 I am from Chile, currently a student of Programming at the Instituto Profesional San Sebastián. I’m passionate about backend development and QA testing, always eager to learn and work on personal projects.
 
 - 😄 Pronouns: He/His

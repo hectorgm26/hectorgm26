@@ -4,6 +4,7 @@
 <h1 align="center">I'm <a href="https://github.com/HectorAGM">Héctor Andrés Gonzalez Mora</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h1>About Me! 😎</h1>
 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" width="20px"/>: I'm from Chile
 - 🏫: I'm a student of Programming at the Instituto Profesional San Sebastián, formerly known as IP CIISA
 - 🔭: I’m currently working on small personal projects and learning as much as possible about backend development and QA Testing.
 - 🌱: I’m currently studying Spring and Spring Boot ecosystems, both self-taught and as part of Oracle’s ONE program at Alura Latam. 🧠💻
@@ -133,5 +134,5 @@
 
 ------
 
-Credit: [Aryagm](https://github.com/Aryagm)  
+Credit for free template: [Aryagm](https://github.com/Aryagm)  
 Last Edited on: 15/10/2024

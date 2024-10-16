@@ -184,33 +184,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 <hr>
 
-## Some of my Projects! 🎨
-<br>
-
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 20px;">
-
-  <a href="https://github.com/hectorgm26/juego-nums-aleatorios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=juego-nums-aleatorios&theme=merko" alt="Juego Números Aleatorios"/>
-  </a>
-
-  <a href="https://github.com/hectorgm26/encriptador-texto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=encriptador-texto&theme=merko" alt="Encriptador de Texto"/>
-  </a>
-
-  <a href="https://github.com/hectorgm26/porfolio-hector-gm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=porfolio-hector-gm&theme=merko" alt="Portafolio Héctor GM"/>
-  </a>
-
-  <a href="https://github.com/hectorgm26/conversor-monedas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=conversor-monedas&theme=merko" alt="Conversor de Monedas"/>
-  </a>
-
-</div>
-
-<br>
-
-<hr>
-
 <h1 align="center">GitHub Stats! 📊</h1>
 <br>
 

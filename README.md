@@ -9,7 +9,7 @@
 - 🌱: I’m currently studying Spring and Spring Boot ecosystems, both self-taught and as part of Oracle’s ONE program at Alura Latam. 🧠💻
 - 💬: Ask me about Java, Object-Oriented Programming, and SQL. 📊📈💻
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I enjoy playing video games, reading comics, doing freestyle rap, and going out with friends and my partner! 🎮🎤📖
+- ⚡ Fun fact: I enjoy playing video games, reading comics, doing freestyle rap, and going out with friends and my girlfriend! 🎮🎤📖
   
 <hr>
 <Br>

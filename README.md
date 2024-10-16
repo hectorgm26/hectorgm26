@@ -109,7 +109,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA
     </td>
     <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans IDE
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans
     </td>
     <td align="center" width="8%">
       <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code

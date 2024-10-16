@@ -120,9 +120,6 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
     <td align="center" width="8%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
     </td>
-    <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans IDE
-    </td>
   </tr>
   <tr>
     <td align="center" width="8%">
@@ -132,10 +129,10 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="60px"/><br>Oracle VirtualBox
     </td>
     <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/SQL_Server_Management_Studio_Logo.png" height="60px"/><br>SQL Server Management Studio
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/SQL_Server_Management_Studio_Logo.png" height="60px"/><br>SQL Server Management Studio
     </td>
     <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_Excel_Logo.svg/2048px-Microsoft_Excel_Logo.svg.png" height="60px"/><br>Excel
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Excel_Logo.png" height="60px"/><br>Excel
     </td>
   </tr>
 </tbody>

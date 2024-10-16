@@ -129,14 +129,16 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="60px"/><br>Oracle VirtualBox
     </td>
     <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/SQL_Server_Management_Studio_Logo.png" height="60px"/><br>SQL Server Management Studio
+      <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" height="60px"/><br>SQL Server Management Studio
     </td>
     <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Excel_Logo.png" height="60px"/><br>Excel
+      <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" height="60px"/><br>Excel
     </td>
   </tr>
 </tbody>
 </table>
+
+
 
 
 

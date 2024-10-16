@@ -7,7 +7,7 @@
 </div>
 
 ## I'm <a href="https://github.com/HectorAGM">Héctor Andrés Gonzalez Mora</a> 
-I am from Chile, currently a student of Programming at the Instituto Profesional San Sebastián. I’m passionate about backend development and QA testing, always eager to learn and work on personal projects.
+I am from Chile, currently a student of Programming. I’m passionate about backend development, mobiledevelopment and QA testing, always eager to learn and work on personal projects.
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I enjoy playing video games, reading comics, doing freestyle rap, and going out with friends and my girlfriend! 🎮🎤📖
@@ -24,7 +24,7 @@ I am from Chile, currently a student of Programming at the Instituto Profesional
 <hr>
 
 ## Education 📚
-I studied Law, and after some time working as a freelance lawyer, I decided to change direction and transition into programming. Since then, I enjoy coming up with solutions to digital problems, learning new technologies, finding bugs, and creating web and desktop experiences for various types of users.
+I studied Law and transitioned to programming after working as a freelance lawyer. Now, I enjoy solving digital problems, learning new technologies, debugging, and creating web and desktop experiences for diverse users.
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">

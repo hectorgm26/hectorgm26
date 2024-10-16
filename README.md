@@ -103,7 +103,7 @@ As an engineer committed to lifelong learning, my academic path is both active a
 ## Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,trello,sqlserver,dbeaver,apache,netbeans,laragon" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,trello,dbeaver,netbeans,laragon" />
   </a>
 </p>
 
@@ -111,12 +111,11 @@ As an engineer committed to lifelong learning, my academic path is both active a
 
 ## Currently Learning :beginner:
 
-- **Spring and Spring Boot**
 <table>
 <tbody>
  <tr>
 <td align="center" width="100%">
-<img height=60px src="https://skillicons.dev/icons?i=spring"> <br>Spring
+<img height=60px src="https://skillicons.dev/icons?i=spring"> <br>Spring and Spring Boot
 </td>
 </tr>
 </tbody>
@@ -141,7 +140,7 @@ As an engineer committed to lifelong learning, my academic path is both active a
 <img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=csharp"> <br>C#
+<img height=60px src="https://skillicons.dev/icons?i=dotnet"> <br>C#
 </td>
 </tr>
 </tbody>

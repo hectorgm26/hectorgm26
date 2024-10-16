@@ -100,9 +100,6 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
       <img src="https://skillicons.dev/icons?i=git" height="60px"/><br>Git
     </td>
     <td align="center" width="8%">
-      <img src="https://skillicons.dev/icons?i=github" height="60px"/><br>GitHub
-    </td>
-    <td align="center" width="8%">
       <img src="https://skillicons.dev/icons?i=docker" height="60px"/><br>Docker
     </td>
     <td align="center" width="8%">
@@ -135,6 +132,7 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
   </tr>
 </tbody>
 </table>
+
 
 
 

@@ -16,7 +16,7 @@ I am from Chile, currently a student of Programming at the Instituto Profesional
 <p align="center">
 <a href="https://www.linkedin.com/in/hectoryefc/" target="blank"><img align="center" src="https://img.shields.io/badge/Héctor Andrés Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
 <a href="mailto:hhector.agm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hhector.agm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
-<a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a> <!-- Cambié el color a morado neón -->
 </p>
 
 <hr>
@@ -28,25 +28,19 @@ As an engineer committed to lifelong learning, my academic path is both active a
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png" height="30" alt="Chile Flag"/>
+        <img src="https://www.uahurtado.cl/wp-content/uploads/2020/12/logo-uah-3.png" height="40" alt="UAH Logo"/><br>
+        <strong>Universidad Alberto Hurtado</strong><br><strong>BSc.</strong> Derecho<br>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png" height="30" alt="Chile Flag"/>
+        <img src="https://www.ips.cl/wp-content/themes/ips/img/logo-ipss.svg" height="40" alt="IPSS Logo"/><br>
+        <strong>Instituto Profesional San Sebastián</strong><br><strong>Técnico.</strong> en Programación<br>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png" height="30" alt="Chile Flag"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Oracle_logo.svg/2560px-Oracle_logo.svg.png" height="40" alt="Oracle Logo"/><br>
+        <strong>Oracle</strong><br><strong>Estudiante</strong> Programa One<br>
       </td>
     </tr>
   </table>

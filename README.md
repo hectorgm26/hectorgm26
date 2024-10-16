@@ -100,25 +100,22 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
       <img src="https://skillicons.dev/icons?i=git" height="60px"/><br>Git
     </td>
     <td align="center" width="8%">
-      <img src="https://skillicons.dev/icons?i=docker" height="60px"/><br>Docker
+      <img src="https://skillicons.dev/icons?i=linux" height="60px"/><br>Linux
+    </td>
+    <td align="center" width="8%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="60px"/><br>Oracle VirtualBox
     </td>
     <td align="center" width="8%">
       <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA
     </td>
     <td align="center" width="8%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans IDE
+    </td>
+    <td align="center" width="8%">
       <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code
     </td>
     <td align="center" width="8%">
-      <img src="https://skillicons.dev/icons?i=postman" height="60px"/><br>Postman
-    </td>
-    <td align="center" width="8%">
-      <img src="https://skillicons.dev/icons?i=linux" height="60px"/><br>Linux
-    </td>
-    <td align="center" width="8%">
       <img src="https://img.icons8.com/color/48/000000/trello.png" height="60px"/><br>Trello
-    </td>
-    <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
     </td>
   </tr>
   <tr>
@@ -126,7 +123,7 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
       <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/><br>Laragon
     </td>
     <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="60px"/><br>Oracle VirtualBox
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
     </td>
     <td align="center" width="8%">
       <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" height="60px"/><br>SQL Server Management Studio
@@ -134,17 +131,12 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
     <td align="center" width="8%">
       <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" height="60px"/><br>Excel
     </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=docker" height="60px"/><br>Docker
+    </td>
   </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
 
 
 <hr>

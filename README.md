@@ -60,7 +60,7 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
 <img height=60px src="https://skillicons.dev/icons?i=java"> <br>Java
 </td>
 <td align="center" width="50%">
-<img height=80px src="https://skillicons.dev/icons?i=mssql"> <br>SQL Server
+<img height=60px src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" alt="SQL Server Logo"/><br>SQL Server
 </td>
 </tr>
 </tbody>
@@ -86,9 +86,6 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
 </td>
 <td align="center" width="33%">
 <img height=60px src="https://skillicons.dev/icons?i=postgresql"> <br>PostgreSQL
-</td>
-<td align="center" width="33%">
-<img height=60px src="https://skillicons.dev/icons?i=mysql"> <br>MySQL
 </td>
 </tr>
 </tbody>
@@ -125,13 +122,13 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
       <img src="https://img.icons8.com/color/48/000000/trello.png" height="60px"/><br>Trello
     </td>
     <td align="center" width="8%">
-      <img src="https://dbeaver.com/wp-content/uploads/2020/03/cropped-dbeaver-logo.png" height="60px"/><br>DBeaver
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
     </td>
     <td align="center" width="8%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans IDE
     </td>
     <td align="center" width="8%">
-      <img src="https://laragon.org/images/laragon-logo.png" height="60px"/><br>Laragon
+      <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/><br>Laragon
     </td>
     <td align="center" width="8%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="60px"/><br>Oracle VirtualBox
@@ -170,6 +167,9 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
 <img height=60px src="https://skillicons.dev/icons?i=kotlin"> <br>Kotlin
 </td>
 <td align="center" width="20%">
+<img height=60px src="https://www.jetbrains.com/_assets/www/kotlin-multiplatform/parts/sections/head/hero-shape.41226a16aa9674fbb2f397f143af121c.jpg"> <br>Kotlin Multiplatform
+</td>
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
 </td>
 <td align="center" width="20%">
@@ -181,6 +181,7 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
 </tr>
 </tbody>
 </table>
+
 
 <hr>
 

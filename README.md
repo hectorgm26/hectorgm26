@@ -61,10 +61,10 @@ As an engineer committed to lifelong learning, my academic path is both active a
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=java"> <br>Java
 </td>
 <td align="center" width="50%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+<img height=80px src="https://skillicons.dev/icons?i=mssql"> <br>SQL Server
 </td>
 </tr>
 </tbody>
@@ -75,24 +75,24 @@ As an engineer committed to lifelong learning, my academic path is both active a
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=html"> <br>HTML
 </td>
 <td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+<img height=70px src="https://skillicons.dev/icons?i=css"> <br>CSS
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap
 </td>
 </tr>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=postgresql"> <br>PostgreSQL
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=mysql"> <br>MySQL
 </td>
 </tr>
 </tbody>
@@ -103,7 +103,7 @@ As an engineer committed to lifelong learning, my academic path is both active a
 ## Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,trello,sqlserver,dbeaver,apache,netbeans,laragon" />
   </a>
 </p>
 
@@ -116,7 +116,7 @@ As an engineer committed to lifelong learning, my academic path is both active a
 <tbody>
  <tr>
 <td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=spring"> <br>Spring
 </td>
 </tr>
 </tbody>
@@ -125,11 +125,27 @@ As an engineer committed to lifelong learning, my academic path is both active a
 <hr>
 
 ## In Future, I Will Learn: 📚
-- **Angular**
-- **Dart**
-- **Flutter**
-- **Python**
-- **C#**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=dart"> <br>Dart
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=flutter"> <br>Flutter
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=csharp"> <br>C#
+</td>
+</tr>
+</tbody>
+</table>
 
 <hr>
 

@@ -22,7 +22,7 @@ I am from Chile, currently a student of Programming at the Instituto Profesional
 <hr>
 
 ## Education 📚
-Estudié Derecho, y tras un tiempo ejerciendo como abogado Freelance, decidí cambiar de rumbo y me pasé al mundo de la programación. Desde entonces disfruto ideando soluciones a problemas digitales, aprendiendo nuevas tecnologías, buscando bugs, y creando experiencias web y de escritorio para distintos tipos de usuarios.
+I studied Law, and after some time working as a freelance lawyer, I decided to change direction and transition into programming. Since then, I enjoy coming up with solutions to digital problems, learning new technologies, finding bugs, and creating web and desktop experiences for various types of users.
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
@@ -30,17 +30,17 @@ Estudié Derecho, y tras un tiempo ejerciendo como abogado Freelance, decidí ca
       <td align="center">
         <img src="https://i.imgur.com/lFACOpG.png" width="90" alt="UAH Logo"/><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
-        <strong>Universidad Alberto Hurtado</strong><br>Egresado de Derecho
+        <strong>Universidad Alberto Hurtado</strong><br>Law Graduate
       </td>
       <td align="center">
         <img src="https://i.imgur.com/WaVuyQv.png" width="90" alt="IPSS Logo"/><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
-        <strong>Instituto Profesional San Sebastián</strong><br>Técnico en Programación
+        <strong>Instituto Profesional San Sebastián</strong><br>Technical in Programming
       </td>
       <td align="center">
         <img src="https://i.imgur.com/76RQWm0.png" width="90" alt="Oracle Logo"/><br>
         <br>
-        <strong>Oracle con Alura Latam</strong><br>Estudiante del programa ONE
+        <strong>Oracle with Alura Latam</strong><br>ONE program student
       </td>
     </tr>
   </table>

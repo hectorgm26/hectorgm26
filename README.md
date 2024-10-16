@@ -21,26 +21,26 @@ I am from Chile, currently a student of Programming at the Instituto Profesional
 
 <hr>
 
-## 📚 | Education
-As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.
+## Education 📚
+Estudié Derecho, y tras un tiempo ejerciendo como abogado Freelance, decidí cambiar de rumbo y me pasé al mundo de la programación. Desde entonces disfruto ideando soluciones a problemas digitales, aprendiendo nuevas tecnologías, buscando bugs, y creando experiencias web y de escritorio para distintos tipos de usuarios.
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag"/>
-        <img src="https://www.uahurtado.cl/wp-content/uploads/2020/12/logo-uah-3.png" width="90" alt="UAH Logo"/><br>
-        <strong>Universidad Alberto Hurtado</strong><br><strong>BSc.</strong> Derecho<br>
+        <img src="https://i.imgur.com/lFACOpG.png" width="90" alt="UAH Logo"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
+        <strong>Universidad Alberto Hurtado</strong><br>Egresado de Derecho
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag"/>
-        <img src="https://www.ips.cl/wp-content/themes/ips/img/logo-ipss.svg" width="90" alt="IPSS Logo"/><br>
-        <strong>Instituto Profesional San Sebastián</strong><br><strong>Técnico.</strong> en Programación<br>
+        <img src="https://i.imgur.com/WaVuyQv.png" width="90" alt="IPSS Logo"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
+        <strong>Instituto Profesional San Sebastián</strong><br>Técnico en Programación
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Oracle_logo.svg/2560px-Oracle_logo.svg.png" width="90" alt="Oracle Logo"/><br>
-        <strong>Oracle</strong><br><strong>Estudiante</strong> Programa One<br>
+        <img src="https://i.imgur.com/76RQWm0.png" width="90" alt="Oracle Logo"/><br>
+        <br>
+        <strong>Oracle con Alura Latam</strong><br>Estudiante del programa ONE
       </td>
     </tr>
   </table>

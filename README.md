@@ -6,7 +6,7 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" width="20px"/>: I'm from Chile
 - 🏫: I'm a student of Programming at the Instituto Profesional San Sebastián, formerly known as IP CIISA
-- 🔭: I’m currently working on small personal projects and learning as much as possible about backend development and QA Testing.
+- 🔭: I’m currently working on small personal projects and learning as much as possible about backend development and QA testing.
 - 🌱: I’m currently studying Spring and Spring Boot ecosystems, both self-taught and as part of Oracle’s ONE program at Alura Latam. 🧠💻
 - 💬: Ask me about Java, Object-Oriented Programming, and SQL. 📊📈💻
 - 😄 Pronouns: He/His

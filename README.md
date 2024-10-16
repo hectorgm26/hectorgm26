@@ -97,11 +97,51 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
 <hr>
 
 ## Tools 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux" />
-  </a>
-</p>
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=git" height="60px"/><br>Git
+    </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=github" height="60px"/><br>GitHub
+    </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=docker" height="60px"/><br>Docker
+    </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA
+    </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code
+    </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=postman" height="60px"/><br>Postman
+    </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=linux" height="60px"/><br>Linux
+    </td>
+    <td align="center" width="8%">
+      <img src="https://img.icons8.com/color/48/000000/trello.png" height="60px"/><br>Trello
+    </td>
+    <td align="center" width="8%">
+      <img src="https://dbeaver.com/wp-content/uploads/2020/03/cropped-dbeaver-logo.png" height="60px"/><br>DBeaver
+    </td>
+    <td align="center" width="8%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans IDE
+    </td>
+    <td align="center" width="8%">
+      <img src="https://laragon.org/images/laragon-logo.png" height="60px"/><br>Laragon
+    </td>
+    <td align="center" width="8%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="60px"/><br>Oracle VirtualBox
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+
 
 <hr>
 
@@ -127,16 +167,16 @@ I studied Law, and after some time working as a freelance lawyer, I decided to c
 <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=dart"> <br>Dart
-</td>
-<td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=flutter"> <br>Flutter
+<img height=60px src="https://skillicons.dev/icons?i=kotlin"> <br>Kotlin
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=dotnet"> <br>C#
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
 </td>
 </tr>
 </tbody>

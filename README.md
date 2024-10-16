@@ -16,9 +16,9 @@ I am from Chile, currently a student of Programming. I’m passionate about back
 
 ## Get in Touch! 📬
 <p align="center">
-<a href="https://www.linkedin.com/in/hectoryefc/" target="blank"><img align="center" src="https://img.shields.io/badge/Héctor Andrés Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="https://www.linkedin.com/in/hectoryefc/" target="blank"><img align="center" src="https://img.shields.io/badge/Hector Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
 <a href="mailto:hhector.agm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hhector.agm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
-<a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a> <!-- Cambié el color a morado neón -->
+<a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <hr>

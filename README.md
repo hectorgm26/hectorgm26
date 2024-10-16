@@ -181,20 +181,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-
-<hr>
-
-<h1 align="center">GitHub Stats! 📊</h1>
-<br>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-  ![Héctor's github stats](https://github-readme-stats.vercel.app/api?username=hectorgm26&show_icons=true&theme=merko)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorgm26&layout=compact&theme=merko)
-
-</div>
-
 <hr>
 
 ## A Little Java Joke at the End! 🤣
@@ -203,5 +189,5 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </p>
 
 <br>
-<h1 align="center">Thank You! 🤵</h1>
+<h1 align="center">Thank you for visiting my profile! 🤵</h1>
 <br>

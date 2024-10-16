@@ -163,10 +163,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=kotlin"> <br>Kotlin
+<img height=60px src="https://skillicons.dev/icons?i=dart"> <br>Dart
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://www.jetbrains.com/_assets/www/kotlin-multiplatform/parts/sections/head/hero-shape.41226a16aa9674fbb2f397f143af121c.jpg"> <br>Kotlin Multiplatform
+<img height=60px src="https://skillicons.dev/icons?i=flutter"> <br>Flutter
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python

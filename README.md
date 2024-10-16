@@ -68,20 +68,42 @@
 <hr>
 <Br>
 <h1 align="center">Some of my Projects! 🎨</h1>
-<Br>
+<br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=juego-nums-aleatorios&theme=merko)](https://github.com/hectorgm26/juego-nums-aleatorios)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=encriptador-texto&theme=merko)](https://github.com/hectorgm26/encriptador-texto)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=porfolio-hector-gm&theme=merko)](https://github.com/hectorgm26/porfolio-hector-gm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=conversor-monedas&theme=merko)](https://github.com/hectorgm26/conversor-monedas)
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 20px;">
+
+  <a href="https://github.com/hectorgm26/juego-nums-aleatorios">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=juego-nums-aleatorios&theme=merko" alt="Juego Números Aleatorios"/>
+  </a>
+
+  <a href="https://github.com/hectorgm26/encriptador-texto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=encriptador-texto&theme=merko" alt="Encriptador de Texto"/>
+  </a>
+
+  <a href="https://github.com/hectorgm26/porfolio-hector-gm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=porfolio-hector-gm&theme=merko" alt="Portafolio Héctor GM"/>
+  </a>
+
+  <a href="https://github.com/hectorgm26/conversor-monedas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hectorgm26&repo=conversor-monedas&theme=merko" alt="Conversor de Monedas"/>
+  </a>
+
+</div>
 
 <Br>
 <hr>
 <Br>
 <h1 align="center">Certifications! 🏆</h1>
-<Br>
+<br>
 
-|[![](https://img.shields.io/badge/Certificación%201-red?style=for-the-badge)](cert-link)|[![](https://img.shields.io/badge/Certificación%202-blue?style=for-the-badge)](cert-link)|[![](https://img.shields.io/badge/Certificación%203-green?style=for-the-badge)](cert-link)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](cert-link)|
+<div align="center">
+
+[![](https://img.shields.io/badge/Certificación%201-red?style=for-the-badge)](cert-link)
+[![](https://img.shields.io/badge/Certificación%202-blue?style=for-the-badge)](cert-link)
+[![](https://img.shields.io/badge/Certificación%203-green?style=for-the-badge)](cert-link)
+[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](cert-link)
+
+</div>
 
 <Br>
 <hr>

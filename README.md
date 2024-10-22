@@ -164,10 +164,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <img height=60px src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"> <br>JUnit
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube Logo"> <br>SonarQube
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=jenkins"> <br>Jenkins
+<img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript

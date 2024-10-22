@@ -41,7 +41,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
       <td align="center">
         <img src="https://i.imgur.com/76RQWm0.png" width="90" alt="Oracle Logo"/><br>
-        <strong>Oracle with Alura Latam</strong><br>(Bootcamp)<br>ONE program student
+        <strong>Oracle with Alura Latam</strong><br>(Bootcamp)<br><br>ONE program student
       </td>
     </tr>
   </table>

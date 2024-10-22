@@ -56,33 +56,34 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img height=60px src="https://skillicons.dev/icons?i=java"> <br>Java
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
+<img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
+</td>
+<td align="center" width="33%">
 <img height=60px src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" alt="SQL Server Logo"/><br>SQL Server
 </td>
 </tr>
 </tbody>
 </table>
 
+
 - **Web Development**
 <table>
 <tbody>
  <tr>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=html"> <br>HTML
 </td>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=css"> <br>CSS
 </td>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap
 </td>
-<td align="center" width="16%">
-<img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
-</td>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=postgresql"> <br>PostgreSQL
 </td>
 </tr>
@@ -103,9 +104,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://skillicons.dev/icons?i=linux" height="60px"/><br>Linux
     </td>
     <td align="center" width="8%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="60px"/><br>Oracle VirtualBox
-    </td>
-    <td align="center" width="8%">
       <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA
     </td>
     <td align="center" width="8%">
@@ -113,6 +111,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
     </td>
     <td align="center" width="8%">
       <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code
+    </td>
+    <td align="center" width="8%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60px"/><br>Jira
     </td>
     <td align="center" width="8%">
       <img src="https://img.icons8.com/color/48/000000/trello.png" height="60px"/><br>Trello
@@ -160,6 +161,18 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
  <tr>
 <td align="center" width="20%">
+<img height=60px src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"> <br>JUnit
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=jenkins"> <br>Jenkins
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript
+</td>
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
 </td>
 <td align="center" width="20%">
@@ -167,12 +180,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=flutter"> <br>Flutter
-</td>
-<td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
-</td>
-<td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
 </td>
 </tr>
 </tbody>

@@ -129,9 +129,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" height="60px"/><br>SQL Server Management Studio
     </td>
     <td align="center" width="8%">
-      <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" height="60px"/><br>Excel
-    </td>
-    <td align="center" width="8%">
       <img src="https://skillicons.dev/icons?i=docker" height="60px"/><br>Docker
     </td>
   </tr>

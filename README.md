@@ -56,10 +56,21 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://skillicons.dev/icons?i=java"> <br>Java
+<img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
+<img height=60px src="https://skillicons.dev/icons?i=java"> <br>Java
+</td>
+</tr>
+</tbody>
+</table>
+
+- **Databases**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://skillicons.dev/icons?i=postgresql"> <br>PostgreSQL
 </td>
 <td align="center" width="33%">
 <img height=60px src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" alt="SQL Server Logo"/><br>SQL Server
@@ -67,7 +78,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tr>
 </tbody>
 </table>
-
 
 - **Web Development**
 <table>
@@ -82,13 +92,31 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap
 </td>
-<td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=postgresql"> <br>PostgreSQL
+</tr>
+</tbody>
+</table>
+
+- **QA Testing**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="100%">
+<!-- This section is intentionally left blank -->
 </td>
 </tr>
 </tbody>
 </table>
 
+- **Mobile Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="100%">
+<!-- This section is intentionally left blank -->
+</td>
+</tr>
+</tbody>
+</table>
 
 <hr>
 

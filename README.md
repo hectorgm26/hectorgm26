@@ -175,10 +175,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=dart"> <br>Dart
-</td>
-<td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=flutter"> <br>Flutter
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic Logo"> <br>Ionic
 </td>
 </tr>
 </tbody>

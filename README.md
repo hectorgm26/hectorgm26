@@ -6,7 +6,7 @@
   <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230" />
 </div>
 
-## I'm <a href="https://github.com/HectorAGM">Héctor Andrés Gonzalez Mora</a> 
+## I'm <a href="https://github.com/hectorgm26">Héctor Andrés Gonzalez Mora</a> 
 I am from Chile, currently a student of Programming. I’m passionate about backend development, mobile development and QA testing, always eager to learn and work on personal projects.
 
 - 😄 Pronouns: He/His

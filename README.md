@@ -96,6 +96,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
+- **Backend Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="100%">
+<!-- This section is intentionally left blank -->
+</td>
+</tr>
+</tbody>
+</table>
+
 - **QA Testing**
 <table>
 <tbody>

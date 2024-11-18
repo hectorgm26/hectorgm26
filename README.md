@@ -170,7 +170,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
   </tr>
 </tbody>
 </table>
-<hr>
 
 
 <hr>
@@ -189,9 +188,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 <hr>
 
-<hr>
-
-<hr>
 
 ## In Future, I Will Learn: 📚
 <table>

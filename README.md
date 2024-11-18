@@ -167,12 +167,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="8%">
       <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" height="60px"/><br>SQL Server Management Studio
     </td>
-    <td align="center" width="8%">
-      <img src="https://skillicons.dev/icons?i=docker" height="60px"/><br>Docker
-    </td>
   </tr>
 </tbody>
 </table>
+<hr>
 
 
 <hr>
@@ -191,12 +189,22 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 <hr>
 
+<hr>
+
+<hr>
+
 ## In Future, I Will Learn: 📚
 <table>
 <tbody>
  <tr>
 <td align="center" width="20%">
 <img height=60px src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"> <br>JUnit
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo.png"> <br>Mockito
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=docker"> <br>Docker
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube
@@ -207,15 +215,24 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript
 </td>
+</tr>
+<tr>
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic Logo"> <br>Ionic
 </td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=ruby" alt="Ruby Logo"> <br>Ruby
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails Logo"> <br>Ruby on Rails
+</td>
 </tr>
 </tbody>
 </table>
+
 
 <hr>
 

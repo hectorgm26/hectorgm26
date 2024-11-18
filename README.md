@@ -165,7 +165,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
     </td>
     <td align="center" width="8%">
-      <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" height="60px"/><br>SQL Server Management Studio
+      <img src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" height="60px"/><br>SQL Server Management Studio
     </td>
   </tr>
 </tbody>

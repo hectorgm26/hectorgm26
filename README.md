@@ -193,41 +193,47 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <img height=60px src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"> <br>JUnit
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <img height=60px src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo.png"> <br>Mockito
     </td>
-    <td align="center" width="20%">
-      <img height=60px src="https://skillicons.dev/icons?i=docker"> <br>Docker
+    <td align="center" width="16.66%">
+      <img height=60px src="https://skillicons.dev/icons?i=gherkin"> <br>Gherkin y Cucumber
     </td>
-    <td align="center" width="20%">
-      <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube
-    </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
+    </td>
+    <td align="center" width="16.66%">
+      <img height=60px src="https://skillicons.dev/icons?i=postman"> <br>Postman
+    </td>
+    <td align="center" width="20%">
+      <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karatelabs/karatelabs-plain.svg" alt="KarateLabs Logo"> <br>KarateLabs
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
       <img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
+      <img height=60px src="https://skillicons.dev/icons?i=cypress" alt="Cypress Logo"> <br>Cypress
+    </td>
+    <td align="center" width="16.66%">
       <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic Logo"> <br>Ionic
     </td>
-    <td align="center" width="20%">
-      <img height=60px src="https://skillicons.dev/icons?i=ruby" alt="Ruby Logo"> <br>Ruby
-    </td>
-    <td align="center" width="20%">
-      <img height=60px src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails Logo"> <br>Ruby on Rails
+    <td align="center" width="16.66%">
+      <img height=60px src="https://skillicons.dev/icons?i=python" alt="Python Logo"> <br>Python
     </td>
   </tr>
 </tbody>
 </table>
+
+
+
 
 
 

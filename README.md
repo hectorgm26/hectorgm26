@@ -59,7 +59,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://skillicons.dev/icons?i=java"> <br>Java
+<img height=60px src="https://skillicons.dev/icons?i=java&theme=light"> <br>Java
 </td>
 </tr>
 </tbody>
@@ -75,6 +75,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <td align="center" width="33%">
 <img height=60px src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" alt="SQL Server Logo"/><br>SQL Server
 </td>
+   <td align="center" width="33%">
+        <img height=60px src="https://skillicons.dev/icons?i=mysql" alt="MySQL Logo"/><br>MySQL
+    </td>
 </tr>
 </tbody>
 </table>

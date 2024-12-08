@@ -209,7 +209,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height=60px src="https://skillicons.dev/icons?i=postman"> <br>Postman
     </td>
     <td align="center" width="20%">
-      <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karatelabs/karatelabs-plain.svg" alt="KarateLabs Logo"> <br>KarateLabs
+    <img height=60px src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
     </td>
   </tr>
   <tr>
@@ -217,8 +217,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript
     </td>
     <td align="center" width="16.66%">
-      <img height=60px src="https://skillicons.dev/icons?i=cypress" alt="Cypress Logo"> <br>Cypress
-    </td>
+  <img height=60px src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+</td>
     <td align="center" width="16.66%">
       <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
     </td>

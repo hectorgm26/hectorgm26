@@ -182,17 +182,14 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
     </td>
-    <td align="center" width="50%">
-  <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
-</td>
-    <td align="center" width="50%">
-      <img height="60px" src="https://skillicons.dev/icons?i=vite" alt="Vite Logo"> <br>Vite
+    <td align="center" width="33%">
+      <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
     </td>
-    <td align="center" width="50%">
-      <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
+    <td align="center" width="33%">
+      <img height="60px" src="https://skillicons.dev/icons?i=vite" alt="Vite Logo"> <br>Vite
     </td>
   </tr>
 </tbody>
@@ -205,6 +202,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
+    <td align="center" width="16.66%">
+      <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
+    </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native with Expo
     </td>
@@ -220,17 +220,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16.66%">
       <img height="60px" src="https://www.accelq.com/wp-content/uploads/2023/05/testng1.png" alt="TestNG Logo"> <br>TestNG
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
     </td>
     <td align="center" width="16.66%">
-  <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
-</td>
+      <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
+    </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube
     </td>

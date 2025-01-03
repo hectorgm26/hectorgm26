@@ -186,8 +186,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
     </td>
     <td align="center" width="50%">
-      <img height="60px" src="https://skillicons.dev/icons?i=react" alt="React Logo"> <br>React
-    </td>
+  <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
+</td>
     <td align="center" width="50%">
       <img height="60px" src="https://skillicons.dev/icons?i=vite" alt="Vite Logo"> <br>Vite
     </td>
@@ -229,8 +229,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
     </td>
     <td align="center" width="16.66%">
-      <img height="60px" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins Logo"> <br>Jenkins
-    </td>
+  <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
+</td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube
     </td>

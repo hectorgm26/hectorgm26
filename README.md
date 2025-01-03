@@ -184,13 +184,16 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
  <tr>
-    <td align="center" width="50%">
-      <img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript
-    </td>
-    <td align="center" width="50%">
-      <img height=60px src="https://skillicons.dev/icons?i=react"> <br>React
-    </td>
- </tr>
+<td align="center" width="50%">
+  <img height=60px src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
+</td>
+<td align="center" width="50%">
+  <img height=60px src="https://skillicons.dev/icons?i=react" alt="React Logo"> <br>React
+</td>
+<td align="center" width="50%">
+  <img height=60px src="https://skillicons.dev/icons?i=vite" alt="Vite Logo"> <br>Vite
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -227,14 +230,15 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
     </td>
     <td align="center" width="16.66%">
-      <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Jenkins_logo.png" alt="Jenkins Logo"> <br>Jenkins
+      <img height=60px src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins Logo"> <br>Jenkins
     </td>
     <td align="center" width="16.66%">
-      <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/0d/SonarQube_logo.png" alt="SonarQube Logo"> <br>SonarQube
+      <img height=60px src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube Logo"> <br>SonarQube
     </td>
   </tr>
 </tbody>
 </table>
+
 
 
 <hr>

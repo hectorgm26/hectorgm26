@@ -58,7 +58,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <td align="center" width="33%">
 <img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
 </td>
-<td align="center" width="33%">
+<td align="center" width="100%">
 <img height=60px src="https://skillicons.dev/icons?i=java&theme=light"> <br>Java
 </td>
 </tr>
@@ -94,6 +94,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </td>
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=vite"> <br>Vite
 </td>
 </tr>
 </tbody>
@@ -187,9 +190,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
     </td>
     <td align="center" width="33%">
       <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
-    </td>
-    <td align="center" width="33%">
-      <img height="60px" src="https://skillicons.dev/icons?i=vite" alt="Vite Logo"> <br>Vite
     </td>
   </tr>
 </tbody>

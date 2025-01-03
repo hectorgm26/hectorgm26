@@ -104,7 +104,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
  <tr>
 <td align="center" width="100%">
-<!-- This section is intentionally left blank -->
+<img height=60px src="https://skillicons.dev/icons?i=spring"> <br>Spring Boot
 </td>
 </tr>
 </tbody>
@@ -170,10 +170,12 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="8%">
       <img src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" height="60px"/><br>SQL Server Management Studio
     </td>
+    <td align="center" width="8%">
+      <img src="https://skillicons.dev/icons?i=postman" height="60px"/><br>Postman
+    </td>
   </tr>
 </tbody>
 </table>
-
 
 <hr>
 
@@ -182,20 +184,28 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
  <tr>
-<td align="center" width="100%">
-<img height=60px src="https://skillicons.dev/icons?i=spring"> <br>Spring Boot
-</td>
-</tr>
+    <td align="center" width="50%">
+      <img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript
+    </td>
+    <td align="center" width="50%">
+      <img height=60px src="https://skillicons.dev/icons?i=react"> <br>React
+    </td>
+ </tr>
 </tbody>
 </table>
 
 <hr>
 
-
 ## In Future, I Will Learn: 📚
 <table>
 <tbody>
   <tr>
+    <td align="center" width="16.66%">
+      <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native with Expo
+    </td>
+    <td align="center" width="16.66%">
+      <img height=60px src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+    </td>
     <td align="center" width="16.66%">
       <img height=60px src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"> <br>JUnit
     </td>
@@ -203,36 +213,24 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height=60px src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo.png"> <br>Mockito
     </td>
     <td align="center" width="16.66%">
+      <img height=60px src="https://www.testng.org/wp-content/uploads/2020/02/testng-logo-dark.png"> <br>TestNG
+    </td>
+    <td align="center" width="16.66%">
       <img height=60px src="https://skillicons.dev/icons?i=gherkin"> <br>Gherkin y Cucumber
-    </td>
-    <td align="center" width="16.66%">
-      <img height=60px src="https://skillicons.dev/icons?i=selenium"> <br>Selenium
-    </td>
-    <td align="center" width="16.66%">
-      <img height=60px src="https://skillicons.dev/icons?i=postman"> <br>Postman
-    </td>
-    <td align="center" width="16.66%">
-      <img height=60px src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
     </td>
   </tr>
   <tr>
     <td align="center" width="16.66%">
-      <img height=60px src="https://skillicons.dev/icons?i=typescript"> <br>TypeScript
-    </td>
-    <td align="center" width="16.66%">
-      <img height=60px src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+      <img height=60px src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
     </td>
     <td align="center" width="16.66%">
       <img height=60px src="https://skillicons.dev/icons?i=angular"> <br>Angular
     </td>
     <td align="center" width="16.66%">
-      <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic Logo"> <br>Ionic
+      <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Jenkins_logo.png" alt="Jenkins Logo"> <br>Jenkins
     </td>
     <td align="center" width="16.66%">
-      <img height=60px src="https://skillicons.dev/icons?i=python" alt="Python Logo"> <br>Python
-    </td>
-    <td align="center" width="16.66%">
-      <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
+      <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/0d/SonarQube_logo.png" alt="SonarQube Logo"> <br>SonarQube
     </td>
   </tr>
 </tbody>

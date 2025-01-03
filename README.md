@@ -237,6 +237,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=angular" alt="Angular Logo"> <br>Angular
     </td>
+    <td align="center" width="16.66%">
+      <img height="60px" src="https://skillicons.dev/icons?i=python" alt="Python Logo"> <br>Python
+    </td>
   </tr>
 </tbody>
 </table>

@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23ffdf00&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!" alt="Title">
 </div>
 
 <div align="center">
   <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230" />
 </div>
 
-## I'm <a href="https://github.com/hectorgm26">Héctor Andrés Gonzalez Mora</a> 
+## I'm <a href="https://github.com/hectorgm26">Héctor Andrés Gonzalez Mora</a>
 I am from Chile, currently a student of Programming. I’m passionate about backend development, mobile development and QA testing, always eager to learn and work on personal projects.
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I enjoy playing video games, reading comics, doing freestyle rap, and going out with friends and my girlfriend! 🎮🎤📖
 
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
+</div>
 
 ## Get in Touch! 📬
 <p align="center">
@@ -21,7 +23,9 @@ I am from Chile, currently a student of Programming. I’m passionate about back
 <a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
+</div>
 
 ## Education 📚
 I studied Law and transitioned to programming after working as a freelance lawyer. Now, I enjoy solving digital problems, learning new technologies, debugging, and creating web and desktop experiences for diverse users.
@@ -47,7 +51,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
   </table>
 </div>
 
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
+</div>
+
 
 ## My Skills :computer:
 
@@ -135,7 +142,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
+</div>
+
 
 ## Tools 
 <table>
@@ -177,8 +187,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
+</div>
 
 ## Currently Learning :beginner:
 
@@ -195,7 +206,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
+</div>
 
 ## In Future, I Will Learn: 📚
 
@@ -244,7 +257,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
+</div>
 
 ## A Little Java Joke at the End! 🤣
 <p align="center">

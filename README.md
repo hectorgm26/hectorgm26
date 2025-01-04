@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=F70000&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!" alt="Title">
 </div>
 
-
 <div align="center">
-  <img src="https://darkbyteblog.wordpress.com/wp-content/uploads/2010/12/holamundo-consola.jpg" height="230" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Ws8Y7CG3pr5c5FkZ" style="width: 70%; height: auto;" />
 </div>
 
 ## I'm <a href="https://github.com/hectorgm26">Héctor Andrés Gonzalez Mora</a>

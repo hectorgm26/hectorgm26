@@ -115,14 +115,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-- **Backend Development**
+- **Backend Development**  
 <table>
 <tbody>
  <tr>
-<td align="center" width="100%">
-<img height=60px src="https://skillicons.dev/icons?i=spring"> <br>Spring Boot
-</td>
-</tr>
+    <td align="center" width="50%">
+        <img height="60px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Logo"> <br>Node.js
+    </td>
+    <td align="center" width="50%">
+        <img height="60px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot Logo"> <br>Spring Boot
+    </td>
+ </tr>
 </tbody>
 </table>
 

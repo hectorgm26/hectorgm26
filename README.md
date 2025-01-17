@@ -72,18 +72,24 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-- **Databases**
+- **Databases**  
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
-<img height=60px src="https://skillicons.dev/icons?i=postgresql"> <br>PostgreSQL
-</td>
-<td align="center" width="33%">
-<img height=60px src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" alt="SQL Server Logo"/><br>SQL Server
-</td>
-   <td align="center" width="33%">
-        <img height=60px src="https://skillicons.dev/icons?i=mysql" alt="MySQL Logo"/><br>MySQL
+    <td align="center" width="20%">
+        <img height="60px" src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL Logo"> <br>PostgreSQL
+    </td>
+    <td align="center" width="20%">
+        <img height="60px" src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" alt="SQL Server Logo"><br>SQL Server
+    </td>
+    <td align="center" width="20%">
+        <img height="60px" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL Logo"><br>MySQL
+    </td>
+    <td align="center" width="20%">
+        <img height="60px" src="https://skillicons.dev/icons?i=hibernate&theme=light" alt="Hibernate Logo"><br>Hibernate
+    </td>
+    <td align="center" width="20%">
+        <img height="60px" src="https://documentation.red-gate.com/download/attachments/138346876/FD?version=3&modificationDate=1633982869952&api=v2" alt="Flyway Logo"><br>Flyway
     </td>
 </tr>
 </tbody>
@@ -239,19 +245,19 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
     </td>
     <td align="center" width="16.66%">
+      <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
+    </td>
+    <td align="center" width="16.66%">
       <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
+    </td>
+    <td align="center" width="16.66%">
+      <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube
-    </td>
-    <td align="center" width="16.66%">
-      <img height="60px" src="https://skillicons.dev/icons?i=angular" alt="Angular Logo"> <br>Angular
-    </td>
-    <td align="center" width="16.66%">
-      <img height="60px" src="https://skillicons.dev/icons?i=python" alt="Python Logo"> <br>Python
     </td>
   </tr>
 </tbody>

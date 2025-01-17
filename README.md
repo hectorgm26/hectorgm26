@@ -120,10 +120,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
  <tr>
     <td align="center" width="50%">
-        <img height="60px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Logo"> <br>Node.js
+        <img height="60px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot Logo"> <br>Spring Boot
     </td>
     <td align="center" width="50%">
-        <img height="60px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot Logo"> <br>Spring Boot
+        <img height="60px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Logo"> <br>Node.js
     </td>
  </tr>
 </tbody>

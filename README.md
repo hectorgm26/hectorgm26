@@ -205,10 +205,16 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+    </td>
+    <td align="center" width="25%">
+      <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
+    </td>
+    <td align="center" width="25%">
       <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
     </td>
   </tr>
@@ -225,13 +231,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
   <tr>
     <td align="center" width="16.66%">
-      <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
-    </td>
-    <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native with Expo
-    </td>
-    <td align="center" width="16.66%">
-      <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"> <br>JUnit
@@ -242,14 +242,14 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16.66%">
       <img height="60px" src="https://www.accelq.com/wp-content/uploads/2023/05/testng1.png" alt="TestNG Logo"> <br>TestNG
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
     </td>
@@ -265,6 +265,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
   </tr>
 </tbody>
 </table>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

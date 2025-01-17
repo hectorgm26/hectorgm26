@@ -231,6 +231,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
   <tr>
     <td align="center" width="16.66%">
+      <img height="60px" src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" alt="Playwright Logo"> <br>Playwright
+    </td>
+    <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native with Expo
     </td>
     <td align="center" width="16.66%">
@@ -245,11 +248,11 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
     </td>
@@ -265,7 +268,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
   </tr>
 </tbody>
 </table>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

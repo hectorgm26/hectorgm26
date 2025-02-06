@@ -88,12 +88,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="20%">
         <img height="60px" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL Logo"><br>MySQL
     </td>
-    <td align="center" width="20%">
-        <img height="60px" src="https://skillicons.dev/icons?i=hibernate&theme=light" alt="Hibernate Logo"><br>Hibernate
-    </td>
-    <td align="center" width="20%">
-        <img height="60px" src="https://documentation.red-gate.com/download/attachments/138346876/FD?version=3&modificationDate=1633982869952&api=v2" alt="Flyway Logo"><br>Flyway
-    </td>
 </tr>
 </tbody>
 </table>

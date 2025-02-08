@@ -193,17 +193,20 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-    <td align="center" width="25%">
-      <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
-    </td>
-    <td align="center" width="25%">
-      <img height="60px" src="https://mochajs.org/images/mocha-logo.svg" alt="Mocha Logo"> <br>Mocha
-    </td>
-    <td align="center" width="25%">
+    <td align="center" width="8%">
       <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="8%">
       <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
+    </td>
+    <td align="center" width="8%">
+      <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
+    </td>
+    <td align="center" width="8%">
+      <img height="60px" src="https://mochajs.org/images/mocha-logo.svg" alt="Mocha Logo"> <br>Mocha
+    </td>
+    <td align="center" width="8%">
+      <img height="60px" src="https://images.ctfassets.net/bxvc0mzx4a69/2MdaJX07bd2sBZk7hhYW2K/38fa83387b1acf35d7d45f0f053f5cfe/chai.svg?h=175" alt="Chai Logo"> <br>Chai
     </td>
   </tr>
 </tbody>
@@ -219,10 +222,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
   <tr>
     <td align="center" width="16.66%">
-      <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+      <img height="60px" src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" alt="Playwright Logo"> <br>Playwright
     </td>
     <td align="center" width="16.66%">
-      <img height="60px" src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" alt="Playwright Logo"> <br>Playwright
+      <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native with Expo

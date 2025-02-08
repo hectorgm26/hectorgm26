@@ -34,22 +34,25 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/lFACOpG.png" width="90" alt="UAH Logo"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
-        <strong>Universidad Alberto Hurtado</strong><br>Law Graduate
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/UAH-Insignia.jpg" width="90" alt="UAH Logo"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
+        <strong>Alberto Hurtado University</strong><br>Law Graduate
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/WaVuyQv.png" width="90" alt="IPSS Logo"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/640px-Flag_of_Chile.svg.png" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
-        <strong>Instituto Profesional San Sebastián</strong><br>Technical in Programming
+        <img src="https://www.universidadesonline.cl/logos/original/logo-instituto-de-ciencias-tecnologicas-ciisa.webp" width="90" alt="CIISA Logo"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
+        <strong>CIISA Professional Institute</strong><br>(currently San Sebastian Institute)<br>Technical in Programming
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/76RQWm0.png" width="90" alt="Oracle Logo"/><br>
-        <strong>Oracle with Alura Latam</strong><br>(Bootcamp)<br><br>ONE program student
+        <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="90" alt="Alura Latam Logo"/><br>
+        <br>(Bootcamp)<br><br>Oracle ONE program student
       </td>
     </tr>
   </table>
 </div>
+
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

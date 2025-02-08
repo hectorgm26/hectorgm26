@@ -83,7 +83,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL Logo"> <br>PostgreSQL
     </td>
     <td align="center" width="20%">
-        <img height="60px" src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" alt="SQL Server Logo"><br>SQL Server
+        <img height="60px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="SQL Server Logo"><br>SQL Server
     </td>
     <td align="center" width="20%">
         <img height="60px" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL Logo"><br>MySQL

@@ -180,9 +180,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="8%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
     </td>
-    <td align="center" width="8%">
-      <img src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" height="60px"/><br>SQL Server Management Studio
-    </td>
   </tr>
 </tbody>
 </table>
@@ -198,6 +195,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <tr>
     <td align="center" width="25%">
       <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
+    </td>
+    <td align="center" width="25%">
+      <img height="60px" src="https://mochajs.org/images/mocha-logo.svg" alt="Mocha Logo"> <br>Mocha
     </td>
     <td align="center" width="25%">
       <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
@@ -249,9 +249,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
-    </td>
-    <td align="center" width="16.66%">
-      <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube

@@ -200,9 +200,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
     </td>
     <td align="center" width="8%">
-      <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
-    </td>
-    <td align="center" width="8%">
       <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
     </td>
     <td align="center" width="8%">
@@ -225,7 +222,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
   <tr>
     <td align="center" width="16.66%">
-      <img height="60px" src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" alt="Playwright Logo"> <br>Playwright
+      <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress

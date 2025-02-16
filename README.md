@@ -190,8 +190,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16.66%">
       <img src="https://skillicons.dev/icons?i=postman" height="60px"/><br>Postman
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/><br>Laragon
     </td>
@@ -273,12 +271,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube
-      </td>
-      <td align="center" width="14.28%">
-        <!-- Empty space for future use -->
-      </td>
-      <td align="center" width="14.28%">
-        <!-- Empty space for future use -->
       </td>
     </tr>
   </tbody>

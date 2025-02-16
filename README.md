@@ -270,7 +270,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube Logo"> <br>SonarQube
+        <img height="60px" src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png" alt="SonarQube Logo"> <br>SonarQube
       </td>
     </tr>
   </tbody>

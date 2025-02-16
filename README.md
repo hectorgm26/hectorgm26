@@ -252,7 +252,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height="60px" src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo.png"> <br>Mockito
     </td>
     <td align="center" width="16.66%">
-      <img height="60px" src="https://www.accelq.com/wp-content/uploads/2023/05/testng1.png" alt="TestNG Logo"> <br>TestNG
+      <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
     </td>
   </tr>
   <tr>

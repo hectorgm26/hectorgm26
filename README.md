@@ -185,7 +185,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code
     </td>
     <td align="center" width="16.66%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60px"/><br>Jira
+      <img src="https://icons-for-free.com/iff/png/256/atlassian+jira-1330884264935854776.png" height="60px"/><br>Jira
     </td>
     <td align="center" width="16.66%">
       <img src="https://skillicons.dev/icons?i=postman" height="60px"/><br>Postman
@@ -238,7 +238,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
+        <img height="60px" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png" alt="Expo Logo"> <br>Expo
       </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber

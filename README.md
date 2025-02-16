@@ -31,27 +31,42 @@ I am from Chile, currently a student of Programming. I’m passionate about back
 I studied Law and transitioned to programming after working as a freelance lawyer. Now, I enjoy solving digital problems, learning new technologies, debugging, and creating web and desktop experiences for diverse users.
 
 <div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
+  <table>
     <tr>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/UAH-Insignia.jpg" width="70" alt="UAH Logo"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
-        <strong>Alberto Hurtado University</strong><br>Law Graduate
+      <td align="center" width="250" valign="top">
+        <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/UAH-Insignia.jpg" width="70" alt="UAH Logo"/>
+          <div>
+            <strong>Alberto Hurtado University</strong><br>
+            Law Graduate
+          </div>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag"/>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://www.universidadesonline.cl/logos/original/logo-instituto-de-ciencias-tecnologicas-ciisa.webp" width="70" alt="CIISA Logo"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag" style="margin-top: 10px;"/><br>
-        <strong>CIISA Professional Institute</strong><br>(currently San Sebastian Institute)<br>Technical in Programming
+      <td align="center" width="250" valign="top">
+        <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
+          <img src="https://www.universidadesonline.cl/logos/original/logo-instituto-de-ciencias-tecnologicas-ciisa.webp" width="70" alt="CIISA Logo"/>
+          <div>
+            <strong>CIISA Professional Institute</strong><br>
+            (currently San Sebastian Institute)<br>
+            Technical in Programming
+          </div>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag"/>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="70" alt="Alura Latam Logo"/><br>
-        <br>(Bootcamp)<br><br>Oracle ONE program student
+      <td align="center" width="250" valign="top">
+        <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
+          <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="70" alt="Alura Latam Logo"/>
+          <div>
+            <strong>Alura Latam</strong><br>
+            Oracle ONE Program Student
+          </div>
+          <div style="height: 20px;"></div> <!-- Espaciador para alineación -->
+        </div>
       </td>
     </tr>
   </table>
 </div>
-
-
 
 
 <div align="center">

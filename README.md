@@ -97,13 +97,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
  <tr>
-    <td align="center" width="20%">
+    <td align="center" width="40%">
         <img height="60px" src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL Logo"> <br>PostgreSQL
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="40%">
         <img height="60px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="SQL Server Logo"><br>SQL Server
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="40%">
         <img height="60px" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL Logo"><br>MySQL
     </td>
 </tr>

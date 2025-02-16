@@ -114,13 +114,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=60px src="https://skillicons.dev/icons?i=html"> <br>HTML
 </td>
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=60px src="https://skillicons.dev/icons?i=css"> <br>CSS
 </td>
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap
 </td>
 </tr>
@@ -249,7 +249,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"> <br>JUnit
     </td>
     <td align="center" width="16.66%">
-      <img height="60px" src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo.png"> <br>Mockito
+      <img height="60px" src="https://static.javatpoint.com/tutorial/mockito/images/mockito.png"> <br>Mockito
     </td>
     <td align="center" width="16.66%">
       <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG

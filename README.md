@@ -173,7 +173,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://skillicons.dev/icons?i=git" height="60px"/><br>Git
     </td>
     <td align="center" width="16.66%">
-      <img src="https://skillicons.dev/icons?i=linux" height="60px"/><br>Linux
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" height="60px"/><br>Linux
     </td>
     <td align="center" width="16.66%">
       <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA

@@ -18,9 +18,19 @@ I am from Chile, currently a student of Programming. I’m passionate about back
 
 ## Get in Touch! 📬
 <p align="center">
-<a href="https://www.linkedin.com/in/hectoryefc/" target="blank"><img align="center" src="https://img.shields.io/badge/Hector Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-<a href="mailto:hhector.agm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hhector.agm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
-<a href="https://github.com/hectorgm26" target="blank"><img align="center" src="https://img.shields.io/badge/HectorAGM-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hectoryefc/" target="blank">
+    <img src="https://img.shields.io/badge/Hector Gonzalez Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:hhector.agm@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/hhector.agm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hectorgm26" target="blank">
+    <img src="https://img.shields.io/badge/HectorAGM-8A2BE2?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
 </p>
 
 <div align="center">
@@ -80,14 +90,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=java&theme=light"> <br>Java
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
+</td>
+<td align="center" width="20%">
+<img height=60px src="https://skillicons.dev/icons?i=php&theme=light"> <br>PHP
 </td>
 </tr>
 </tbody>
@@ -229,17 +242,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
-## In Future, I Will Learn: 📚
-
 <table>
   <tbody>
     <tr>
-      <td align="center" width="14.28%">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
-      </td>
-      <td align="center" width="14.28%">
-        <img height="60px" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png" alt="Expo Logo"> <br>Expo
-      </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
       </td>
@@ -255,14 +260,14 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <td align="center" width="14.28%">
         <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="14.28%">
-        <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
-      </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>
+      <td align="center" width="14.28%">
+        <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="14.28%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
@@ -271,6 +276,12 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png" alt="SonarQube Logo"> <br>SonarQube
+      </td>
+      <td align="center" width="14.28%">
+        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
+      </td>
+      <td align="center" width="14.28%">
+        <img height="60px" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png" alt="Expo Logo"> <br>Expo
       </td>
     </tr>
   </tbody>

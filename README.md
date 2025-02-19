@@ -242,6 +242,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
+## In Future, I Will Learn: 📚
+
 <table>
   <tbody>
     <tr>

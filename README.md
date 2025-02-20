@@ -180,31 +180,31 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://skillicons.dev/icons?i=git" height="60px"/><br>Git
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://skillicons.dev/icons?i=linux&theme=light" height="60px"/><br>Linux
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://icons-for-free.com/iff/png/256/atlassian+jira-1330884264935854776.png" height="60px"/><br>Jira
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://skillicons.dev/icons?i=postman" height="60px"/><br>Postman
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/><br>Laragon
     </td>
-    <td align="center" width="16.66%">
+    <td align="center" width="10%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
     </td>
   </tr>

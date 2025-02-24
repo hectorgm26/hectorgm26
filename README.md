@@ -244,7 +244,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
+        <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
       </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
@@ -256,13 +256,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
-      </td>
-      <td align="center" width="14.28%">
-        <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
-      </td>
-      <td align="center" width="14.28%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
+      </td>
+      <td align="center" width="14.28%">
+        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
+      </td>
+      <td align="center" width="14.28%">
+        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>
     </tr>
     <tr>

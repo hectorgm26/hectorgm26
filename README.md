@@ -261,11 +261,11 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
       </td>
-    </tr>
-    <tr>
       <td align="center" width="14.28%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
+    </tr>
+    <tr>
       <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>

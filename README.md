@@ -256,13 +256,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
-      </td>
-      <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
+        <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
     </tr>
     <tr>
@@ -273,10 +270,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png" alt="SonarQube Logo"> <br>SonarQube
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
+        <img height="60px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin Logo"> <br>Kotlin
+      </td>
+     <td align="center" width="14.28%">
+        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin Logo"> <br>Kotlin
+        <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
       </td>
     </tr>
   </tbody>

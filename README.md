@@ -221,9 +221,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
   <tr>
     <td align="center" width="8%">
-      <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
-    </td>
-    <td align="center" width="8%">
       <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
     </td>
     <td align="center" width="8%">
@@ -278,10 +275,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png" alt="SonarQube Logo"> <br>SonarQube
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
+        <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png" alt="Expo Logo"> <br>Expo
+        <img height="60px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin Logo"> <br>Kotlin
       </td>
     </tr>
   </tbody>

@@ -250,7 +250,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
       </td>
       <td align="center" width="14.28%">
-        <img height="60px" src="https://static.javatpoint.com/tutorial/mockito/images/mockito.png" alt="Mockito Logo"> <br>Mockito
+        <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito Logo"> <br>Mockito
       </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG

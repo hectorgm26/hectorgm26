@@ -267,16 +267,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
       <td align="center" width="14.28%">
+        <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
+      </td>
+      <td align="center" width="14.28%">
         <img height="60px" src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png" alt="SonarQube Logo"> <br>SonarQube
       </td>
       <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin Logo"> <br>Kotlin
-      </td>
-     <td align="center" width="14.28%">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
-      </td>
-      <td align="center" width="14.28%">
-        <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
       </td>
     </tr>
   </tbody>

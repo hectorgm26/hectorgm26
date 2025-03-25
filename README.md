@@ -256,6 +256,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin Logo"> <br>Kotlin
       </td>
       <td align="center" width="14.28%">
+        <img height="60px" src="https://federico-toledo.com/wp-content/uploads/2020/02/jmeter-logo.png" alt="JMeter Logo"> <br>JMeter
+      </td>
+      <td align="center" width="14.28%">
         <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
       </td>
       <td align="center" width="14.28%">

@@ -278,15 +278,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <td align="center" width="14.28%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
-      <td align="center" width="25%">
-        <img height="60px" src="https://federico-toledo.com/wp-content/uploads/2020/02/jmeter-logo.png" alt="JMeter Logo"> <br>JMeter
-      </td>
-      <td align="center" width="25%">
-        <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
-      </td>
-      <td align="center" width="25%">
-        <img height="60px" src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png" alt="SonarQube Logo"> <br>SonarQube
-      </td>
     </tr>
   </tbody>
 </table>

@@ -218,25 +218,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-      <td align="center" width="14.28%">
-        <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
-      </td>
-     <td align="center" width="16.66%">
-       <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
-     </td>
       <td align="center" width="25%">
-       <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
-     </td>
-       	<td align="center" width="16.66%">
-       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
-     </td>
-     <td align="center" width="16.66%">
-       <img height="60px" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png" alt="Expo Logo"> <br>Expo
-     </td>
-         <td align="center" width="25%">
-       <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
-     </td>
-        <td align="center" width="25%">
        <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
      </td>
      <td align="center" width="25%">
@@ -245,7 +227,12 @@ I studied Law and transitioned to programming after working as a freelance lawye
      <td align="center" width="8%">
        <img height="60px" src="https://images.ctfassets.net/bxvc0mzx4a69/2MdaJX07bd2sBZk7hhYW2K/38fa83387b1acf35d7d45f0f053f5cfe/chai.svg?h=175" alt="Chai Logo"> <br>Chai
      </td>
-    
+      <td align="center" width="14.28%">
+        <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
+      </td>
+     <td align="center" width="16.66%">
+       <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+     </td>    
   </tr>
 </tbody>
 </table>
@@ -259,6 +246,18 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
+      <td align="center" width="25%">
+       <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
+     </td>
+      <td align="center" width="25%">
+       <img height="60px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo"> <br>TypeScript
+     </td>
+       	<td align="center" width="16.66%">
+       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
+     </td>
+     <td align="center" width="16.66%">
+       <img height="60px" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png" alt="Expo Logo"> <br>Expo
+     </td>
         <td align="center" width="14.28%">
         <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
       </td>

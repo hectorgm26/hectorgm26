@@ -93,10 +93,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <img height=60px src="https://skillicons.dev/icons?i=java&theme=light"> <br>Java
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
+<img height=60px src="https://skillicons.dev/icons?i=php&theme=light"> <br>PHP
 </td>
 <td align="center" width="20%">
-<img height=60px src="https://skillicons.dev/icons?i=php&theme=light"> <br>PHP
+<img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
 </td>
 </tr>
 </tbody>

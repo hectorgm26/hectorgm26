@@ -257,6 +257,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
             <td align="center" width="10%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
+      <td align="center" width="10%">
+        <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
+      </td>
       <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
       </td>

@@ -234,25 +234,25 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-       <td align="center" width="14.28%">
+       <td align="center" width="16%">
         <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="16%">
         <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito Logo"> <br>Mockito
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="16%">
         <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
       </td>
               <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="16%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
-            <td align="center" width="10%">
+            <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins Logo"> <br>Jenkins
       </td>
     </tr>
@@ -263,7 +263,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
       </td>
-                  <td align="center" width="10%">
+                  <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
     </tr>

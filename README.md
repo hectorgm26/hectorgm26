@@ -261,12 +261,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
       </td>
         <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask Logo"> <br>Flask
-      </td>
-        <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb Logo"> <br>MongoDB
-      </td>
-        <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
     </tr>

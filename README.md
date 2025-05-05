@@ -185,10 +185,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://skillicons.dev/icons?i=linux&theme=light" height="60px"/><br>Linux
     </td>
     <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA
+      <img src="https://skillicons.dev/icons?i=idea&theme=light" height="60px"/><br>IntelliJ IDEA
     </td>
     <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="60px"/><br>VS Code
     </td>
     <td align="center" width="10%">
       <img src="https://icons-for-free.com/iff/png/256/atlassian+jira-1330884264935854776.png" height="60px"/><br>Jira
@@ -259,10 +259,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <!-- Fila 2 -->
 <table>
   <tr>
-    <td align="center" width="16%">
+    <td align="center" width="37%">
       <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light"><br>Dart
     </td>
-    <td align="center" width="16%">
+    <td align="center" width="37%">
       <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light"><br>Flutter
     </td>
   </tr>
@@ -273,16 +273,16 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <!-- Fila 3 -->
 <table>
   <tr>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <img height="60px" src="https://skillicons.dev/icons?i=docker"><br>Docker
     </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light"><br>Laravel
     </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <img height="60px" src="https://skillicons.dev/icons?i=flask&theme=light"><br>Flask
     </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <img height="60px" src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB
     </td>
   </tr>

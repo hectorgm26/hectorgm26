@@ -188,9 +188,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://skillicons.dev/icons?i=idea" height="60px"/><br>IntelliJ IDEA
     </td>
     <td align="center" width="10%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="60px"/><br>NetBeans
-    </td>
-    <td align="center" width="10%">
       <img src="https://skillicons.dev/icons?i=vscode" height="60px"/><br>VS Code
     </td>
     <td align="center" width="10%">
@@ -203,7 +200,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/><br>Laragon
     </td>
     <td align="center" width="10%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="60px"/><br>DBeaver
+      <img src="https://images.icon-icons.com/1381/PNG/512/xampp_94513.png" height="60px"/><br>Xampp
     </td>
   </tr>
 </tbody>
@@ -231,47 +228,68 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 ## In Future, I Will Learn: 📚
 
+<div align="center">
+
+<!-- Fila 1 -->
 <table>
-  <tbody>
-    <tr>
-       <td align="center" width="16%">
-        <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito Logo"> <br>Mockito
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
-      </td>
-              <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
-      </td>
-        <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
-      </td>
-        <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
-      </td>
-       <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask Logo"> <br>Flask
-       </td>
-         <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb Logo"> <br>MongoDB
-       </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center" width="16%">
+      <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"><br>JUnit
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s"><br>Mockito
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4"><br>TestNG
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=gherkin&theme=light"><br>Gherkin y Cucumber
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=selenium"><br>Selenium
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg"><br>Karate Framework
+    </td>
+  </tr>
 </table>
+
+<br>
+
+<!-- Fila 2 -->
+<table>
+  <tr>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light"><br>Dart
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light"><br>Flutter
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Fila 3 -->
+<table>
+  <tr>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=docker"><br>Docker
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light"><br>Laravel
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=flask&theme=light"><br>Flask
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 
 <div align="center">

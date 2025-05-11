@@ -279,12 +279,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="20%">
       <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light"><br>Laravel
     </td>
-    <td align="center" width="20%">
-      <img height="60px" src="https://skillicons.dev/icons?i=flask&theme=light"><br>Flask
-    </td>
-    <td align="center" width="20%">
-      <img height="60px" src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB
-    </td>
   </tr>
 </table>
 

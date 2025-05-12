@@ -241,7 +241,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
       </td>
               <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin Logo"> <br>Gherkin y Cucumber
+        <img height="60px" src="https://skillicons.dev/icons?i=gherkin&theme=light" alt="Gherkin Logo"> <br>Gherkin y Cucumber
       </td>
       <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium

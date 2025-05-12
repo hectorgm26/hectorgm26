@@ -218,6 +218,15 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16%">
        <img height="60px" src="https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" alt="Chrome Devtools Logo"> <br>Chrome DevTools
      </td>
+           <td align="center" width="16%">
+        <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
+      </td>
+      <td align="center" width="16%">
+        <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito Logo"> <br>Mockito
+      </td>
+      <td align="center" width="16%">
+        <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
+      </td>
   </tr>
 </tbody>
 </table>
@@ -232,15 +241,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <tbody>
     <tr>
        <td align="center" width="16%">
-        <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito Logo"> <br>Mockito
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
-      </td>
-              <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=gherkin&theme=light" alt="Gherkin Logo"> <br>Gherkin y Cucumber
       </td>
       <td align="center" width="16%">
@@ -248,6 +248,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
       <td align="center" width="16%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
+      </td>
+              <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
     </tr>
     <tr>
@@ -259,9 +262,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
         <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
-      </td>
-        <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
     </tr>
   </tbody>

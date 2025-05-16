@@ -200,8 +200,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/><br>Laragon
     </td>
     <td align="center" width="10%">
-      <img src="https://images.icon-icons.com/1381/PNG/512/xampp_94513.png" height="60px"/><br>Xampp
-    </td>
+       <img height="60px" src="https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" alt="Chrome Devtools Logo"> <br>Chrome DevTools
+     </td>
   </tr>
 </tbody>
 </table>
@@ -215,9 +215,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-    <td align="center" width="16%">
-       <img height="60px" src="https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" alt="Chrome Devtools Logo"> <br>Chrome DevTools
-     </td>
            <td align="center" width="16%">
         <img height="60px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit Logo"> <br>JUnit
       </td>

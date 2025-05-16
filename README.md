@@ -280,7 +280,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
-## A Little Java Joke at the End! 🤣
+## A Little Joke at the End! 🤣
 <p align="center">
   <img src="https://chandruscm.wordpress.com/wp-content/uploads/2015/08/jcmmlgm.png?w=1200"/>
 </p>

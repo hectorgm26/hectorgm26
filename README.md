@@ -267,7 +267,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask Logo"> <br>Flask
       </td>
           <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=mongodb" alt="Mongo DB Logo"> <br>Mongo DB
+        <img height="60px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Logo"> <br>MongoDB
       </td>
     </tr>
   </tbody>

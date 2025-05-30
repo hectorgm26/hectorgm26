@@ -254,12 +254,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
     </tr>
     <tr>
-      <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
-      </td>
-            <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
-      </td>
         <td align="center" width="16%">
         <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s" alt="Django Rest Framework Logo"> <br>Django REST Framework
       </td>
@@ -269,7 +263,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <td align="center" width="16%">
         <img height="60px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" alt="Quasar Logo"> <br>Quasar
       </td>
-             <td align="center" width="16%">
+        <td align="center" width="16%">
        <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
      </td>
     </tr>

@@ -218,6 +218,12 @@ I studied Law and transitioned to programming after working as a freelance lawye
            <td align="center" width="16%">
         <img height="60px" src="https://camo.githubusercontent.com/c3d3117994d32c30eec2dbe29389bd17950abc34882db0b9d15f93a62d57a7ba/687474703a2f2f68616d63726573742e6f72672f696d616765732f6c6f676f2e6a7067" alt="Hamcrest Logo"> <br>Hamcrest
       </td>
+          <td align="center" width="16%">
+        <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito Logo"> <br>Mockito
+      </td>
+      <td align="center" width="16%">
+        <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
+      </td>
            <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=gherkin&theme=light" alt="Gherkin Logo"> <br>Gherkin y Cucumber
       </td>
@@ -238,12 +244,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <tbody>
     <tr>
       <td align="center" width="16%">
-        <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito Logo"> <br>Mockito
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
-      </td>
-      <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>
         <td align="center" width="16%">
@@ -252,6 +252,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
+              <td align="center" width="16%">
+       <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
+     </td>
     </tr>
     <tr>
         <td align="center" width="16%">
@@ -263,9 +266,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <td align="center" width="16%">
         <img height="60px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" alt="Quasar Logo"> <br>Quasar
       </td>
-        <td align="center" width="16%">
-       <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
-     </td>
     </tr>
   </tbody>
 </table>

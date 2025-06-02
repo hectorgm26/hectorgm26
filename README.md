@@ -11,6 +11,7 @@ I am from Chile, currently a student of Programming. I’m passionate about back
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I enjoy playing video games, reading comics, doing freestyle rap, and going out with friends and my girlfriend! 🎮🎤📖
+- 🌐 Check out my portfolio: [https://hectorgm26.github.io/porfolio-hector-gm/](https://hectorgm26.github.io/porfolio-hector-gm/)
 
 </div>
 

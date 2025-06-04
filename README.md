@@ -265,8 +265,11 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue Logo"> <br>Vue.js
       </td>
       <td align="center" width="16%">
-        <img height="60px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" alt="Quasar Logo"> <br>Quasar
-      </td>
+         <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
+       </td>
+      <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
+       </td>
     </tr>
   </tbody>
 </table>

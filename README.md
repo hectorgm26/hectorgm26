@@ -250,29 +250,26 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
        </td>
-            <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
+       <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
        </td>
       <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
-       </td>
+      <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
+    </td>
+      <td align="center" width="16.66%">
+      <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
+    </td>
+    </tr>
+    <tr>
         <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>
-    </tr>
-    <tr>
       <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask Logo"> <br>Flask
+        <img height="60px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase Logo"> <br>Firebase
       </td>
       <td align="center" width="16%">
        <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest Logo"> <br>Pytest
      </td>
-        <td align="center" width="16%">
-        <img height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s" alt="Django Rest Framework Logo"> <br>Django REST Framework
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue Logo"> <br>Vue.js
-      </td>
     </tr>
   </tbody>
 </table>

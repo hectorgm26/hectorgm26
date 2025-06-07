@@ -90,13 +90,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <td align="center" width="20%">
 <img height=60px src="https://skillicons.dev/icons?i=javascript"> <br>JavaScript
 </td>
-<td align="center" width="20%">
+<td align="center" width="15%">
 <img height=60px src="https://skillicons.dev/icons?i=java&theme=light"> <br>Java
 </td>
-<td align="center" width="20%">
+<td align="center" width="15%">
 <img height=60px src="https://skillicons.dev/icons?i=php&theme=light"> <br>PHP
 </td>
-<td align="center" width="20%">
+<td align="center" width="15%">
 <img height=60px src="https://skillicons.dev/icons?i=python"> <br>Python
 </td>
 </tr>

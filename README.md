@@ -231,6 +231,12 @@ I studied Law and transitioned to programming after working as a freelance lawye
             <td align="center" width="16%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
+          <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
+      </td>
+        <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
+       </td>
   </tr>
 </tbody>
 </table>
@@ -244,31 +250,22 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-      <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
-      </td>
-        <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
-       </td>
        <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
        </td>
       <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript Logo"> <br>TypeScript
        </td>
-    </tr>
-    <tr>
-            <td align="center" width="16%">
+    <td align="center" width="16%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
     </td>
-      <td align="center" width="16">
+      <td align="center" width="16%">
       <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
     </td>
+    </tr>
+    <tr>
         <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase Logo"> <br>Firebase
       </td>
     </tr>
   </tbody>

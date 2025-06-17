@@ -7,7 +7,7 @@
 </div>
 
 ## I'm <a href="https://github.com/hectorgm26">Héctor Andrés Gonzalez Mora</a>
-I am from Chile, currently a student of Programming. I’m passionate about QA testing, mobile development and backend development, always eager to learn and work on personal projects.
+I am from Chile, currently a student of Programming. I’m passionate about QA testing and mobile development, always eager to learn and work on personal projects.
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I enjoy playing video games, reading comics, doing freestyle rap, and going out with friends and my girlfriend! 🎮🎤📖

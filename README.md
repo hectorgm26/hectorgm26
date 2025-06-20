@@ -137,17 +137,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </tbody>
 </table>
 
-- **Backend Development**  
-<table>
-<tbody>
- <tr>
-    <td align="center" width="50%">
-        <img height="60px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot Logo"> <br>Spring Boot
-    </td>
- </tr>
-</tbody>
-</table>
-
 - **QA Testing**
 <table>
 <tbody>
@@ -171,6 +160,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
 </tr>
+</tbody>
+</table>
+
+- **Backend Development**  
+<table>
+<tbody>
+ <tr>
+    <td align="center" width="50%">
+        <img height="60px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot Logo"> <br>Spring Boot
+    </td>
+ </tr>
 </tbody>
 </table>
 

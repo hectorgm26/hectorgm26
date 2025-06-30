@@ -250,7 +250,24 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-       <td align="center" width="16%">
+     <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=jest" alt="Jest Logo"> <br>Jest
+      </td>
+      <td align="center" width="16%">
+       <img height="60px" src="https://mochajs.org/images/mocha-logo.svg" alt="Mocha Logo"> <br>Mocha
+      </td>
+      <td align="center" width="16%">
+       <img height="60px" src="https://images.ctfassets.net/bxvc0mzx4a69/2MdaJX07bd2sBZk7hhYW2K/38fa83387b1acf35d7d45f0f053f5cfe/chai.svg?h=175" alt="Chai Logo"> <br>Chai
+      </td>
+      <td align="center" width="16%">
+       <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
+      </td> 
+      <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
        </td>
       <td align="center" width="16%">
@@ -261,12 +278,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
     </td>
       <td align="center" width="16%">
       <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
-    </td>
-    </tr>
-    <tr>
-        <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
-      </td>
+    </td
     </tr>
   </tbody>
 </table>

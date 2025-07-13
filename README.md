@@ -170,9 +170,12 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot Logo"> <br>Spring Boot
     </td>
+    <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
+       </td>
  </tr>
 </tbody>
 </table>
@@ -234,8 +237,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-        <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
+       <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
        </td>
   </tr>
 </tbody>
@@ -267,9 +270,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
     </tr>
     <tr>
-      <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
-       </td>
       <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript Logo"> <br>TypeScript
        </td>

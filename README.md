@@ -261,18 +261,24 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
       <td align="center" width="16%">
        <img height="60px" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress Logo"> <br>Cypress
-      </td> 
+      </td>
+            <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
+      </td>
     </tr>
     <tr>
       <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
+         <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
       </td>
       <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
-       </td>
-    <td align="center" width="16%">
-      <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
-    </td>
+         <img height="60px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript Logo"> <br>TypeScript
+      </td>
+      <td align="center" width="16%">
+      <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
+      </td>
+      <td align="center" width="16%">
+      <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
+    </td
     </tr>
   </tbody>
 </table>

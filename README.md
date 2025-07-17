@@ -271,9 +271,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
          <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
       </td>
       <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript Logo"> <br>TypeScript
-      </td>
-      <td align="center" width="16%">
       <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
       </td>
       <td align="center" width="16%">

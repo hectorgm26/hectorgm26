@@ -221,6 +221,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="10%">
        <img height="60px" src="https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" alt="Chrome Devtools Logo"> <br>Chrome DevTools
      </td>
+    <td align="center" width="10%">
+       <img height="60px" src="https://help.apiary.io/images/swagger-logo.png" alt="Swagger Logo"> <br>Swagger
+     </td>
   </tr>
 </tbody>
 </table>

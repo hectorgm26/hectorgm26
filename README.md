@@ -154,13 +154,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <img height="60px" src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG Logo"> <br>TestNG
       </td>
               <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=gherkin&theme=light" alt="Gherkin Logo"> <br>Gherkin y Cucumber
+        <img height="60px" src="https://skillicons.dev/icons?i=gherkin&theme=light" alt="Gherkin Logo"> <br>Gherkin & Cucumber
       </td>
             <td align="center" width="16%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
-      </td>
-        <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>
 </tr>
 </tbody>
@@ -240,6 +237,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
         <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
        </td>
+    <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
+      </td>
   </tr>
 </tbody>
 </table>
@@ -264,6 +264,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
     </td
     </tr>
     <tr>
+      <td align="center" width="16%">
+        <img height="60px" src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751115292804" alt="Playwright Logo"> <br>Playwright
+      </td>
       <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
       </td>

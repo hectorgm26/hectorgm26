@@ -52,7 +52,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
       <td align="center" width="250" valign="top">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Instituto_Ciisa.jpg" width="120" alt="CIISA Logo"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Instituto_Ciisa.jpg" width="130" alt="CIISA Logo"/>
           <div>
             <strong>CIISA Professional Institute</strong><br>
             (currently San Sebastian Institute)<br>
@@ -63,7 +63,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
       <td align="center" width="250" valign="top">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
-          <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="70" alt="Alura Latam Logo"/>
+          <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="100" alt="Alura Latam Logo"/>
           <div>
             <strong>Alura Latam</strong><br>
             Oracle ONE Program Student

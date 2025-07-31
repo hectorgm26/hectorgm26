@@ -256,17 +256,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-      <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
+            <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
       </td>
       <td align="center" width="16%">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
+        <img height="60px" src="https://akademdanismanlik.com/wp-content/uploads/2024/09/android_java_logo.png" alt="Java for Android Logo"> <br>Java for Android
       </td>
       <td align="center" width="16%">
-        <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
+         <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
       </td>
       <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase Logo"> <br>Firebase
+        <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
       </td>
     </tr>
     <tr>

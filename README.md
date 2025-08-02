@@ -170,6 +170,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot Logo"> <br>Spring Boot
     </td>
+   <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
+       </td>
  </tr>
 </tbody>
 </table>
@@ -234,9 +237,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
 <tbody>
   <tr>
-        <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel Logo"> <br>Laravel
-       </td>
     <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>

@@ -50,6 +50,16 @@ I studied Law and transitioned to programming after working as a freelance lawye
           <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag"/>
         </div>
       </td>
+            <td align="center" width="250" valign="top">
+        <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
+          <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="100" alt="Alura Latam Logo"/>
+          <div>
+            <strong>Alura Latam</strong><br>
+            Oracle ONE Program Student
+          </div>
+          <div style="height: 20px;"></div> <!-- Espaciador para alineación -->
+        </div>
+      </td>
       <td align="center" width="250" valign="top">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Instituto_Ciisa.jpg" width="130" alt="CIISA Logo"/>
@@ -59,16 +69,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
             Technical in Programming
           </div>
           <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height="20" alt="Chile Flag"/>
-        </div>
-      </td>
-      <td align="center" width="250" valign="top">
-        <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
-          <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="100" alt="Alura Latam Logo"/>
-          <div>
-            <strong>Alura Latam</strong><br>
-            Oracle ONE Program Student
-          </div>
-          <div style="height: 20px;"></div> <!-- Espaciador para alineación -->
         </div>
       </td>
     </tr>

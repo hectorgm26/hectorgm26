@@ -52,7 +52,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
       </td>
             <td align="center" width="250" valign="top">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; height: 200px; justify-content: space-between;">
-          <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width="100" alt="Alura Latam Logo"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKg-REdboFfuQ4NRiBtRPFr9jRZmWPI0P4A&s" width="70" alt="Alura Latam Logo"/>
           <div>
             <strong>Alura Latam</strong><br>
             Oracle ONE Program Student

@@ -270,9 +270,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
       <td align="center" width="16%">
         <img height="60px" src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751115292804" alt="Playwright Logo"> <br>Playwright
       </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
-      </td>
     </tr>
   </tbody>
 </table>

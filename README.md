@@ -253,22 +253,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-            <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://akademdanismanlik.com/wp-content/uploads/2024/09/android_java_logo.png" alt="Java for Android Logo"> <br>Java for Android
-      </td>
-      <td align="center" width="16%">
+     <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
       </td>
       <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
       </td>
-    </tr>
-    <tr>
       <td align="center" width="16%">
-        <img height="60px" src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751115292804" alt="Playwright Logo"> <br>Playwright
+        <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
+      </td>
+      <td align="center" width="16%">
+        <img height="60px" src="https://akademdanismanlik.com/wp-content/uploads/2024/09/android_java_logo.png" alt="Java for Android Logo"> <br>Java for Android
       </td>
     </tr>
   </tbody>

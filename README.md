@@ -133,6 +133,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <td align="center" width="33%">
 <img height=60px src="https://skillicons.dev/icons?i=bootstrap"> <br>Bootstrap
 </td>
+<td align="center" width="33%">
+<img height=60px src="https://skillicons.dev/icons?i=tailwind&theme=light"> <br>Tailwind
+</td>
 </tr>
 </tbody>
 </table>
@@ -254,11 +257,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
   <tbody>
     <tr>
      <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart Logo"> <br>Dart
-      </td>
+         <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
+       </td>
       <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter Logo"> <br>Flutter
-      </td>
+         <img height="60px" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript Logo"> <br>TypeScript
+       </td>
+      <td align="center" width="16%">
+      <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
+    </td>
+      <td align="center" width="16.66%">
+      <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
+    </td>
       <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
       </td>

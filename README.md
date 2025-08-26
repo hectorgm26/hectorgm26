@@ -256,18 +256,15 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-     <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=react&theme=light" alt="React Logo"> <br>React
-       </td>
       <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript Logo"> <br>TypeScript
        </td>
+     <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=angular&theme=light" alt="Angular Logo"> <br>Angular
+       </td>
       <td align="center" width="16%">
-      <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Logo"> <br>React Native
-    </td>
-      <td align="center" width="16.66%">
-      <img height="60px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo"> <br>Expo
-    </td>
+         <img height="60px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="Ionic Logo"> <br>Ionic
+       </td>
       <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
       </td>

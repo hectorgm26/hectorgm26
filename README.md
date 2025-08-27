@@ -263,6 +263,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
          <img height="60px" src="https://skillicons.dev/icons?i=angular&theme=light" alt="Angular Logo"> <br>Angular
        </td>
       <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
+       </td>
+      <td align="center" width="16%">
          <img height="60px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="Ionic Logo"> <br>Ionic
        </td>
       <td align="center" width="16%">

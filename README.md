@@ -269,12 +269,15 @@ I studied Law and transitioned to programming after working as a freelance lawye
          <img height="60px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="Ionic Logo"> <br>Ionic
        </td>
       <td align="center" width="16%">
+         <img height="60px" src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" alt="Capacitor Logo"> <br>Capacitor
+       </td>
+      <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
       </td>
       <td align="center" width="16%">
         <img height="60px" src="https://akademdanismanlik.com/wp-content/uploads/2024/09/android_java_logo.png" alt="Java for Android Logo"> <br>Java for Android
       </td>
-    </tr>
+      </tr>
   </tbody>
 </table>
 

@@ -243,6 +243,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
     <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
       </td>
+    <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
+       </td>
   </tr>
 </tbody>
 </table>
@@ -256,9 +259,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-            <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
-       </td>
       <td align="center" width="16%">
          <img height="60px" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript Logo"> <br>TypeScript
        </td>

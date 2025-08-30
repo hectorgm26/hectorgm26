@@ -197,39 +197,18 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 
 ## Tools 
-<table>
-<tbody>
-  <tr>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=git" height="60px"/><br>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" height="60px"/><br>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=idea&theme=light" height="60px"/><br>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="60px"/><br>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://icons-for-free.com/iff/png/256/atlassian+jira-1330884264935854776.png" height="60px"/><br>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=postman" height="60px"/><br>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/><br>
-    </td>
-    <td align="center" width="10%">
-       <img height="60px" src="https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" alt="Chrome Devtools Logo"> <br>
-     </td>
-    <td align="center" width="10%">
-       <img height="60px" src="https://help.apiary.io/images/swagger-logo.png" alt="Swagger Logo"> <br>
-     </td>
-  </tr>
-</tbody>
-</table>
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=git" height="60px"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="60px"/>
+  <img src="https://skillicons.dev/icons?i=idea&theme=light" height="60px"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="60px"/>
+  <img src="https://icons-for-free.com/iff/png/256/atlassian+jira-1330884264935854776.png" height="60px"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="60px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" height="60px"/>
+  <img src="https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" height="60px"/>
+  <img src="https://help.apiary.io/images/swagger-logo.png" height="60px"/>
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

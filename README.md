@@ -162,6 +162,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
             <td align="center" width="16%">
         <img height="60px" src="https://karatelabs.github.io/resources/logo-dark.svg" alt="KarateLabs Logo"> <br>Karate Framework
       </td>
+   <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
+      </td>
 </tr>
 </tbody>
 </table>
@@ -220,11 +223,17 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <tbody>
   <tr>
     <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=selenium" alt="Selenium Logo"> <br>Selenium
-      </td>
-    <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
+         <img height="60px" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript Logo"> <br>TypeScript
        </td>
+     <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=angular&theme=light" alt="Angular Logo"> <br>Angular
+       </td>
+            <td align="center" width="16%">
+        <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
+      </td>
+      <td align="center" width="16%">
+        <img height="60px" src="https://akademdanismanlik.com/wp-content/uploads/2024/09/android_java_logo.png" alt="Java for Android Logo"> <br>Java for Android
+      </td>
   </tr>
 </tbody>
 </table>
@@ -238,18 +247,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 <table>
   <tbody>
     <tr>
-      <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript Logo"> <br>TypeScript
+          <td align="center" width="16%">
+         <img height="60px" src="https://skillicons.dev/icons?i=docker" alt="Docker Logo"> <br>Docker
        </td>
-     <td align="center" width="16%">
-         <img height="60px" src="https://skillicons.dev/icons?i=angular&theme=light" alt="Angular Logo"> <br>Angular
-       </td>
-            <td align="center" width="16%">
-        <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
-      </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://akademdanismanlik.com/wp-content/uploads/2024/09/android_java_logo.png" alt="Java for Android Logo"> <br>Java for Android
-      </td>
       </tr>
   </tbody>
 </table>

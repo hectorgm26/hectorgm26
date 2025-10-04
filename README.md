@@ -231,9 +231,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
             <td align="center" width="16%">
         <img height="60px" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio Logo"> <br>Android Studio
       </td>
-      <td align="center" width="16%">
-        <img height="60px" src="https://akademdanismanlik.com/wp-content/uploads/2024/09/android_java_logo.png" alt="Java for Android Logo"> <br>Java for Android
-      </td>
   </tr>
 </tbody>
 </table>

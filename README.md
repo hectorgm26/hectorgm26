@@ -132,6 +132,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6&logoWidth=60&style=for-the-badge)]()
 [![Angular](https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031&logoWidth=60&style=for-the-badge)]()
 [![Ionic](https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()
+[![Capacitor](https://img.shields.io/badge/Capacitor-282C34?logo=capacitor&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

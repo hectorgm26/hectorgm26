@@ -82,64 +82,64 @@ I studied Law and transitioned to programming after working as a freelance lawye
 ## 💻 Technologies & Skills
 
 ### 🧠 Programming Languages
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />]()
-[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=E34F26" alt="Java logo" height="25" />]()
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="25" />]()
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" />]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E&logoWidth=60&style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
+[![PHP](https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4&logoWidth=60&style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB&logoWidth=60&style=for-the-badge)]()
 
 ### 🗄️ Databases
-[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="25" />]()
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="25" />]()
-[<img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjQ0MyOTI3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZD0iTTIgMjJoMTkuNWMuNiAwIDEuNS0uOSAxLjUtMS41VjIuNUMyMyAxaC0xOGMtLjYgMC0xIC4zLTEgMS4xVjIxYzAgLjkuNC4xIDAgLjV6Ii8+PC9zdmc+" alt="SQL Server badge" height="25" />]()
-
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791&logoWidth=60&style=for-the-badge)]()
+[![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1&logoWidth=60&style=for-the-badge)]()
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927&logoWidth=60&style=for-the-badge)]()
 
 ### 🌐 Frontend Development
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />]()
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />]()
-[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="25" />]()
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" />]()
+[![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
+[![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6&logoWidth=60&style=for-the-badge)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3&logoWidth=60&style=for-the-badge)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC&logoWidth=60&style=for-the-badge)]()
 
 ### ⚙️ Backend Development
-[<img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot&logoColor=6DB33F" height="25" />]()
-[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" height="25" />]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot&logoColor=6DB33F&logoWidth=60&style=for-the-badge)]()
+[![Laravel](https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20&logoWidth=60&style=for-the-badge)]()
 
 ### 🧪 QA Testing
-[<img src="https://img.shields.io/badge/JUnit-282C34?logo=junit5&logoColor=25A162" height="25" />]()
-[<img src="https://img.shields.io/badge/Hamcrest-282C34?logo=openjdk&logoColor=E34F26" alt="Hamcrest logo" height="25" />]()
-[<img src="https://img.shields.io/badge/Mockito-282C34?logo=openjdk&logoColor=E34F26" alt="Mockito logo" height="25" />]()
-[<img src="https://img.shields.io/badge/TestNG-282C34?logo=openjdk&logoColor=E34F26" alt="TestNG logo" height="25" />]()
-[<img src="https://img.shields.io/badge/Cucumber-282C34?logo=cucumber&logoColor=23D96C" height="25" />]()
-[<img src="https://img.shields.io/badge/Karate%20Framework-282C34?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDBBOEIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+PHBhdGggZD0iTTI0IDJhMjIgMjIgMCAxIDEgMCA0NCAyMiAyMiAwIDAgMSAwLTQ0bTAgNGExOCAxOCAwIDEgMCAwIDM2IDE4IDE4IDAgMCAwIDAtMzZ6Ii8+PC9zdmc+" alt="Karate logo" height="25" />]()
-[<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" height="25" />]()
+[![JUnit](https://img.shields.io/badge/JUnit-282C34?logo=junit5&logoColor=25A162&logoWidth=60&style=for-the-badge)]()
+[![Hamcrest](https://img.shields.io/badge/Hamcrest-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
+[![Mockito](https://img.shields.io/badge/Mockito-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
+[![TestNG](https://img.shields.io/badge/TestNG-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
+[![Cucumber](https://img.shields.io/badge/Cucumber-282C34?logo=cucumber&logoColor=23D96C&logoWidth=60&style=for-the-badge)]()
+[![Karate Framework](https://img.shields.io/badge/Karate%20Framework-282C34?logo=selenium&logoColor=00A8B0&logoWidth=60&style=for-the-badge)]()
+[![Selenium](https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A&logoWidth=60&style=for-the-badge)]()
 
 ### 📱 Mobile Development
 
 ### 🧰 Tools
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />]()
-[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" height="25" />]()
-[<img src="https://img.shields.io/badge/IntelliJ%20IDEA-282C34?logo=intellijidea&logoColor=000000" height="25" />]()
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code badge" height="25" />]()
-[<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="25" />]()
-[<img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=00BFFF" height="25" />]()
-[<img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" height="25" />]()
-[<img src="https://img.shields.io/badge/DevTools-282C34?logo=googlechrome&logoColor=4285F4" height="25" />]()
-[<img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" height="25" />]()
+[![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032&logoWidth=60&style=for-the-badge)]()
+[![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624&logoWidth=60&style=for-the-badge)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-282C34?logo=intellijidea&logoColor=000000&logoWidth=60&style=for-the-badge)]()
+[![VS Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC&logoWidth=60&style=for-the-badge)]()
+[![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37&logoWidth=60&style=for-the-badge)]()
+[![Laragon](https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=00BFFF&logoWidth=60&style=for-the-badge)]()
+[![Swagger](https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D&logoWidth=60&style=for-the-badge)]()
+[![DevTools](https://img.shields.io/badge/DevTools-282C34?logo=googlechrome&logoColor=4285F4&logoWidth=60&style=for-the-badge)]()
+[![Jira](https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC&logoWidth=60&style=for-the-badge)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
 ## 📘 Currently Learning
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />]()
-[<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="25" />]()
-[<img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=3880FF" alt="Ionic logo" height="25" />]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6&logoWidth=60&style=for-the-badge)]()
+[![Angular](https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031&logoWidth=60&style=for-the-badge)]()
+[![Ionic](https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
 ## 🎯 In the Future
-[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="25" />]()
+[![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED&logoWidth=60&style=for-the-badge)]()
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

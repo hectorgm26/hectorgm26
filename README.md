@@ -114,12 +114,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 ### 📱 Mobile Development
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
-</div>
-
-## 🧰 Tools
+### 🧰 Tools
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />]()
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" height="25" />]()
 [<img src="https://img.shields.io/badge/IntelliJ%20IDEA-282C34?logo=intellijidea&logoColor=000000" height="25" />]()

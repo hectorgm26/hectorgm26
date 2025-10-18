@@ -84,8 +84,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 ### 🧠 Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)]()
 [![Java](https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 
 ### 🗄️ Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
@@ -129,7 +130,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 📘 Currently Learning
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-C22127.svg?style=for-the-badge&logo=Angular&logoColor=white)]()
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)]()
 [![Capacitor](https://img.shields.io/badge/Capacitor-282C34?logo=capacitor&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()

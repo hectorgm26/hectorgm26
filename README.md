@@ -98,6 +98,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-C22127.svg?style=for-the-badge&logo=Angular&logoColor=white)]()
 
 ### ⚙️ Backend Development
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)]()
@@ -130,7 +131,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 📘 Currently Learning
-[![Angular](https://img.shields.io/badge/Angular-C22127.svg?style=for-the-badge&logo=Angular&logoColor=white)]()
+
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)]()
 [![Capacitor](https://img.shields.io/badge/Capacitor-282C34?logo=capacitor&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()
 

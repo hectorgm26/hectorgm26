@@ -140,6 +140,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 🎯 In the Future
+
+[![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)]()
 
 

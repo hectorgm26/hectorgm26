@@ -114,6 +114,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)]()
 
 ### 📱 Mobile Development
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)]()
+[![Capacitor](https://img.shields.io/badge/Capacitor-282C34?logo=capacitor&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()
 
 ### 🧰 Tools
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)]()
@@ -131,17 +133,14 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 📘 Currently Learning
+[![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
 
-[![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)]()
-[![Capacitor](https://img.shields.io/badge/Capacitor-282C34?logo=capacitor&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
 ## 🎯 In the Future
-
-[![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)]()
 
 

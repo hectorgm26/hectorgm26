@@ -107,8 +107,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 ### 🧪 QA Testing
 [![JUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)]()
 [![Hamcrest](https://img.shields.io/badge/Hamcrest-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
-[![Mockito](https://img.shields.io/badge/Mockito-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
-[![TestNG](https://img.shields.io/badge/TestNG-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white)]()
 [![Karate Framework](https://img.shields.io/badge/Karate%20Framework-282C34?logo=selenium&logoColor=00A8B0&logoWidth=60&style=for-the-badge)]()
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)]()

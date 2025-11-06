@@ -92,6 +92,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)]()
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927&logoWidth=60&style=for-the-badge)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)]()
 
 ### 🌐 Frontend Development
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)]()
@@ -106,7 +107,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 ### 🧪 QA Testing
 [![JUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)]()
-[![Hamcrest](https://img.shields.io/badge/Hamcrest-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white)]()
 [![Karate Framework](https://img.shields.io/badge/Karate%20Framework-282C34?logo=selenium&logoColor=00A8B0&logoWidth=60&style=for-the-badge)]()
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)]()
@@ -131,7 +131,10 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 📘 Currently Learning
-[![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
+
 
 
 <div align="center">

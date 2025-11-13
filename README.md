@@ -104,6 +104,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 ### ⚙️ Backend Development
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)]()
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)]()
 
 ### 🧪 QA Testing
 [![JUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)]()
@@ -131,10 +132,6 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 📘 Currently Learning
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)]()
-[![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
-
 
 
 <div align="center">

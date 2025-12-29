@@ -90,7 +90,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 ### 🗄️ Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)]()
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927&logoWidth=60&style=for-the-badge)]()
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)]()
 
 ### 🌐 Frontend Development
@@ -119,7 +119,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)]()
-[![VS Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC&logoWidth=60&style=for-the-badge)]()
+[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![Laragon](https://img.shields.io/badge/Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white)]()
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)]()
@@ -132,8 +132,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 ## 📘 Currently Learning
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)]()
-[![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]()
+[![React Native](https://img.shields.io/badge/React%20Native-F50057.svg?style=for-the-badge&logo=ProtonDB&logoColor=white)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

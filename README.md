@@ -86,6 +86,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)]()
 
 ### 🗄️ Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
@@ -131,7 +132,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 📘 Currently Learning
-[![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)]()
+[![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]()
 [![React Native](https://img.shields.io/badge/React%20Native-F50057.svg?style=for-the-badge&logo=ProtonDB&logoColor=white)]()
 

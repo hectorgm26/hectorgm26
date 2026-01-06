@@ -86,6 +86,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=E34F26&logoWidth=60&style=for-the-badge)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)]()
 
 ### 🗄️ Databases

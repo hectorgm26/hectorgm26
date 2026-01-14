@@ -101,6 +101,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-C22127.svg?style=for-the-badge&logo=Angular&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]()
 
 ### ⚙️ Backend Development
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)]()
@@ -134,15 +135,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 ## 📘 Currently Learning
 [![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]()
-[![React Native](https://img.shields.io/badge/React%20Native-F50057.svg?style=for-the-badge&logo=ProtonDB&logoColor=white)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
 ## 🎯 In the Future
-[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)]()
 
 
 <div align="center">

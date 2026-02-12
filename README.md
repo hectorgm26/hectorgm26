@@ -140,14 +140,13 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![UIKit](https://img.shields.io/badge/UIkit-2396F3.svg?style=for-the-badge&logo=UIkit&logoColor=white)]()
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-000000.svg?style=for-the-badge&logo=iOS&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)]()
-[![Appium](https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
 </div>
 
 ## 🎯 In the Future
-
+[![Appium](https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

@@ -147,6 +147,11 @@ I studied Law and transitioned to programming after working as a freelance lawye
 
 ## 🎯 In the Future
 [![Appium](https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white)]()
+[![TestNG](https://img.shields.io/badge/TestNG-36B6E5.svg?style=for-the-badge&logo=TestCafe&logoColor=white)]()
+[![React Native](https://img.shields.io/badge/React%20Native-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)]()
+[![Expo](https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white)]()
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">

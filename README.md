@@ -117,6 +117,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
 ### 📱 Mobile Development
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)]()
 [![Capacitor](https://img.shields.io/badge/Capacitor-282C34?logo=capacitor&logoColor=3880FF&logoWidth=60&style=for-the-badge)]()
+[![React Native](https://img.shields.io/badge/React%20Native-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)]()
+[![Expo](https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white)]()
 
 ### 🧰 Tools
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)]()
@@ -130,6 +132,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)]()
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)]()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
@@ -139,7 +142,7 @@ I studied Law and transitioned to programming after working as a freelance lawye
 [![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)]()
 [![UIKit](https://img.shields.io/badge/UIkit-2396F3.svg?style=for-the-badge&logo=UIkit&logoColor=white)]()
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-000000.svg?style=for-the-badge&logo=iOS&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)]()
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=1000&lines=-----------------------------------------------------------------------------" alt="Animated Line">
@@ -148,9 +151,8 @@ I studied Law and transitioned to programming after working as a freelance lawye
 ## 🎯 In the Future
 [![Appium](https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white)]()
 [![TestNG](https://img.shields.io/badge/TestNG-36B6E5.svg?style=for-the-badge&logo=TestCafe&logoColor=white)]()
-[![React Native](https://img.shields.io/badge/React%20Native-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)]()
-[![Expo](https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white)]()
-
+[![K6](https://img.shields.io/badge/k6-7D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)]()
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)]()
 
 
 <div align="center">

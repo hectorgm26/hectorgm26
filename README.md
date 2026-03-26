@@ -149,9 +149,9 @@ I studied Law and transitioned to programming after working as a freelance lawye
 </div>
 
 ## 🎯 In the Future
+[![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)]()
 [![Appium](https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white)]()
 [![TestNG](https://img.shields.io/badge/TestNG-36B6E5.svg?style=for-the-badge&logo=TestCafe&logoColor=white)]()
-[![K6](https://img.shields.io/badge/k6-7D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)]()
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)]()
 
 

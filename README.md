@@ -34,7 +34,7 @@ I am a Programmer Analyst from Chile, currently working as a Junior iOS Mobile D
 </div>
 
 <h2 align="center">Education 📚</h2>
-I studied Law and transitioned to programming after working as a freelance lawyer. Now, I enjoy solving digital problems, learning new technologies, debugging, and creating web and desktop experiences for diverse users.
+I studied Law and transitioned to programming after working as a freelance lawyer. Now, I enjoy solving digital problems, learning new technologies, debugging, and creating mobile experiences for diverse users.
 
 <div align="center">
   <br>
